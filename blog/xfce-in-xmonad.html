@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <title>Xfce in xmonad - gedenkt.at</title>
+        <link rel="stylesheet" type="text/css" href="../css/default.css" />
+        <link rel="stylesheet" type="text/css" href="../css/syntax.css" />
+    </head>
+    <body>
+        <div id="header">
+            <div id="logo">
+                <a href="../"><img src="../media/gedenkt_small.png" /></a>
+            </div>
+            <div id="navigation">
+                <a href="../">Initium</a>
+                <a href="../erasmus.html">Erasmus</a>
+                <a href="../musica.html">Musica</a>
+                <a href="../blog.html">Blog</a>
+            </div>
+        </div>
+
+        <div id="content">
+            <h1>Xfce in xmonad</h1>
+
+            <div class="info">
+    Geschrieben am 05. November 2013
+    
+</div>
+
+<p><em>Aktualisierung</em>: Mittlerweile habe ich <a href="{{%20site.url%20}}/blog/xfce-in-xmonad-pt-2/">den zweiten Teil des Artikels</a> geschrieben.</p>
+<p>Kürzlich habe ich den Fenstermanager <a href="http://xmonad.org/">xmonad</a> ausprobiert, und ich war ziemlich begeistert: Nach kurzer Zeit war ich beim Verwalten meiner Fenster um einiges schneller als zuvor, und ich musste die Maus nur noch sehr sporadisch einsetzen — eine exzellente Sache, auch im Hinblick auf ergonomisches Arbeiten.</p>
+<p>Es zeigte sich allerdings nach und nach, dass ich einige Dinge vermisste: So hätte ich mir Lösungen für folgende Probleme suchen müssen:</p>
+<ul>
+<li>GTK-Programme schauen sehr “schiach” aus.</li>
+<li>Drahtlose Netzwerke werden nicht automatisch gesucht.</li>
+<li>USB-Laufwerke werden nicht automatisch eingebunden.</li>
+<li>Es existiert kein Feld zum Ändern der Lautstärke.</li>
+<li>Ich kann meine Bildschirmauflösung nicht einstellen. (xrandr, ich hasse dich!)</li>
+<li>…</li>
+</ul>
+<p>Die Liste ließe sich noch sehr lange fortsetzen. Ich hätte mir jetzt natürlich an dieser Stelle für jede dieser Sachen eine eigene Lösung suchen können, aber ich halte Faulheit, wenn sie intelligent eingesetzt wird, für eine Tugend. Und der einfachste (sprich “faulste”) Weg wäre natürlich, meine bisherigen Programme für die oben genannten Probleme einzusetzen, also einfach meine mir ans Herz gewachsenen Xfce-Programme weiterzuverwenden, während ich xmonad zur Fensterverwaltung benütze. Voilà.</p>
+<p>Und so habe ich einfach einmal unter xmonad versucht, das Panel von Xfce zu starten. Alt-P (nach der Installation von dmenu), xfce4-panel eingegeben und los geht’s. Mon dieu ! Das Panel schaut grauenhaft aus, zeigt keine Ikonen an und spielt nicht wirklich mit xmonad zusammen. An diesem Punkt schaue ich einfach einmal ins Internet, was andere Leute zu dem Thema “xfce4 xmonad” geschrieben haben. Ein wenig später bin ich schlauer, dass viele Leute ganz herkömmlich Xfce starten und dann xmonad in Xfce laufen lassen, durch ein simples “xmonad –replace”. Gleichzeitig lese ich allerdings ein paar Warnungen dazu, was mich aber nicht abhält, einfach einmal “xmonad –replace” einzugeben. Whoa! Es scheint zwar so, dass xmonad läuft, aber ich kann keine Programme mehr öffnen, meine Schnellstartleiste erscheint nicht mehr, und irgendwie kommt mir das alles spanisch vor.</p>
+<p>Welche Möglichkeiten habe ich jetzt also? Ich könnte mich einige Zeit darin vertiefen, xmonad unter Xfce zum Laufen zu bringen, oder ich könnte versuchen, die von mir benötigten Teile von Xfce unter xmonad einzusetzen. Ich entscheide mich für letztere Lösung — Gründe:</p>
+<ul>
+<li>Wenn ich Xfce so konfiguriere, dass es mit xmonad zusammenspielt und nicht umgekehrt, so kann es sein, dass ich beim nächsten Mal, wenn ich alle meine Xfce-Einstellungen lösche (kommt durchschnittlich alle sechs Monate vor), wieder das delikate Zusammenspiel xmonad/Xfce neu einstellen muss. Die xmonad-Konfiguration ist hingegen viel simpler aufgebaut, sodass ich diese gar nicht erst löschen werde.</li>
+<li>Ich kann einiges über den Aufbau und den Startvorgang von Xfce lernen.</li>
+<li>Der Start des Desktops könnte etwas schneller sein. :)</li>
+</ul>
+<p>Ich werde also jetzt meinen Migrationsprozess dokumentieren. Zu dem Zeitpunkt, wo ich diese Zeilen schreibe, sitze ich noch in meinem angestammten Xfce-Desktop und beginne mit der Forschungsarbeit, was denn jetzt zu tun ist. :)</p>
+<h2 id="sondierung">Sondierung</h2>
+<p>Wenn wir in Xubuntu Xfce starten, dann wird zuerst /usr/share/xsessions/xfce.desktop ausgeführt: Diese Datei enthält einfach den Befehl “startxfce4”. Schauen wir uns diese Datei an: Diese Datei (liegt in /usr/bin/startxfce4, was ein einfaches “which startxfce4” zu Tage bringt) setzt hauptsächlich sehr allgemeine Umgebungsvariablen, die nicht direkt im Zusammenhang mit Xfce stehen, wie z.B. XDG_DATA_DIRS. Dann startet sie den X-Server, und zwar mit einer Konfigurationsdatei xinitrc, die sich ein meinem Falle in /etc/xdg/xfce4/xinitrc verbirgt. Schauen wir dort einmal hinein:</p>
+<p>Im ersten Teil setzt das Skript xinitrc hauptsächlich wieder Umgebungsvariablen, darunter einige Pfade. Dann wird es interessant: Falls xfce4-session installiert ist, startet das Skript dieses Programm und beendet sich an dieser Stelle; andernfalls setzt das Skript seine Ausführung fort. Was macht also xfce4-session? Ich habe auf meinem System festgestellt, dass xfce4-session installiert ist, also wird es bei mir auch ausgeführt. xfce4-session übernimmt den Start der Programme, die die meisten Benutzer als Xfce-typisch ansehen würden: Das Panel, den Dateimanager, den Desktop, … — darunter allerdings auch den Fenstermanager xfwm4, den ich ja gerne durch xmonad ersetzen würde. Aus letzterem Grunde entschließe ich mich also gegen xfce4-session, da es mir vermutlich einiges an Flexibilität nehmen würde, und entscheide mich dafür, in der xinitrc weiterzulesen, welche Programme dieses Skript in der Absenz von xfce4-session denn starten würde. Und, siehe da, da sind die wichtigen Programme aufgelistet: Zuerst noch das langweilige dbus, dann aber xfsettingsd (ein Dämon zum Verwalten von Xfce-Einstellungen), dann xfwm4 (Fenstermanager), weiters xfdesktop (Xfce-Desktop), Orage (Terminverwaltung mit schönem französischen Namen) und schlussendlich noch xfce4-panel, das u.a. für die Schnellstartleiste und das Startmenü zuständig ist. Puh.</p>
+<p>War das alles, was Xfce startet? Nun, Xfce startet noch einige andere Programme, die ich hier noch nicht aufgelistet habe, aber für mich dennoch wichtig sind, z.B. die Netzwerkverwaltung (network-manager) oder den Bildschirmschoner (xscreensaver). Wenn man sehen möchte, welche Programme Xfce startet, gebe man xfce4-session-settings ein und erhält eine hübsche Liste.</p>
+<p>Was ist jetzt also zu tun, wenn ich eine abgespeckte Version von Xfce mit den für mich notwendigen Programmen unter xmonad starten möchte?</p>
+<ol style="list-style-type: decimal">
+<li>Wichtige Umgebungsvariablen aus startxfce4 extrahieren.</li>
+<li>Weitere Umgebungsvariablen aus xinitrc extrahieren.</li>
+<li>Programme aus xinitrc extrahieren, mit Ausnahme von xfwm4, da ja xmonad dessen Arbeit übernimmt.</li>
+<li>Automatisch gestartete Programme aus xfce4-session-settings extrahieren.</li>
+</ol>
+<p>Diese Arbeit habe ich erledigt und zwei kleine Skripte namens xfce-base.sh und xfce-extras.sh gebastelt, die mir all diese Programme starten:</p>
+<pre><code>#!/bin/bash
+# xfce-base.sh
+xdg-user-dirs-update
+dbus-launch
+xfsettingsd
+xfce4-panel &amp;</code></pre>
+<p>Und die nächste:</p>
+<pre><code>#!/bin/bash
+# xfce-extras.sh
+system-config-printer-applet &amp;
+xfce4-volumed
+xfce4-power-manager
+xscreensaver -no-splash &amp;
+update-notifier &amp;
+nm-applet &amp;
+/usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1 &amp;</code></pre>
+<p>Umgebungsvariablen setze ich keine, da ich bisher ohne auskomme.</p>
+<h2 id="ab-zu-xmonad">Ab zu xmonad</h2>
+<p>So, jetzt melde ich mich aus Xfce ab und in xmonad an. Wie ich mittlerweile schon weiß, startet man ein Terminal mit Alt-Shift-Enter und beendet xmonad mit Alt-Shift-Q. (Am Anfang dachte ich, dass die Installation nicht funktioniert hätte, weil Mausklicks auf die Arbeitsfläche keine Wirkung hatten und auch sonst kein Fenster zu sehen war. ^^) Nachdem ich also ein Terminal gestartet habe, führe ich meine beiden Skripten aus — oh Wunder, meine Xfce-Programme öffnen sich, und meine Bildschirmauflösung passt sich automatisch an meine Xfce-Einstellungen an (dank xfsettingsd)! Allerdings kann ich neugestartete Programme nicht sehen. Nach ein wenig Experimentierens merke ich, dass xfdesktop die Fehlerquelle darstellt, und schmeiße xfdesktop aus meiner xfce-base.sh. So, neuer Versuch ohne xfdesktop. Ja, diesmal schaut es besser aus! Ich sehe neugeöffnete Programme! :)</p>
+<p>An diesem Punkt bemerke ich allerdings, dass Xfce und xmonad noch nicht so richtig miteinander wollen; das Panel verdeckt meine Fenster, das Wechseln zwischen Fenstern wählt manchmal auch das Panel aus (sehr lästig!), sodass es Zeit für eine Überarbeitung ist und Zeit, eine xmonad-Konfiguration zu erstellen! Im Internet lese ich eine <a href="http://www.haskell.org/haskellwiki/Xmonad/Using_xmonad_in_XFCE#Using_XMonad.Config.Xfce">Version der Konfigurationsdatei mit Xfce</a>, was ich direkt probiere:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">XMonad</span>
+<span class="kw">import </span><span class="dt">XMonad.Config.Xfce</span>
+main <span class="fu">=</span> xmonad xfceConfig</code></pre>
+<p>Das war’s, diese Zeilen kommen in die Datei ~/.xmonad/xmonad.hs. Ich prüfe mit</p>
+<pre><code>xmonad --recompile</code></pre>
+<p>nach, ob ich keine Fehler gemacht habe, und verleite xmonad mittels Alt-Q zum Neuladen der Konfiguration. Da ich noch keine Änderung feststellen kann, starte ich auch noch das Panel neu mittels:</p>
+<pre><code>pkill xfce4-panel
+xfce4-panel &amp;</code></pre>
+<p>Tada! Mein Panel überlappt meine anderen Fenster nicht mehr und zeigt mir überdies auch noch äußerst geräumig meine Arbeitsflächen an. Als zusätzlichen Bonus kann ich das Panel auch ein-/ausblenden mit Alt-B.</p>
+<p>An diesem Punkt bemerke ich allerdings, dass xfceConfig eher dafür gedacht ist, xmonad <em>innerhalb</em> von Xfce zu betreiben und nicht andersherum, da ich xmonad z.B. nicht mehr mit Alt-Shift-Q beenden kann, da dies eine Xfce-Funktion aufruft, die ich aber gar nicht gestartet habe. Aus diesem Grunde stelle ich meine xmonad.hs ein wenig um:</p>
+<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">XMonad</span>
+<span class="kw">import </span><span class="dt">XMonad.Config.Desktop</span>
+main <span class="fu">=</span> xmonad desktopConfig</code></pre>
+<p>Weiters lösche ich alle Tastaturkürzel von Xfce (via Xfce-Einstellungen), da mir im Laufe meiner Tests ein paar der Kürzel in die Quere gekommen sind und ich die Kürzel ohnehin nie verwende.</p>
+<h2 id="résumé">Résumé</h2>
+<p>Mittlerweile habe ich ein ganz anständiges System, mit dem ich produktiv arbeiten kann. Es benötigt aber noch ein wenig Arbeit:</p>
+<ul>
+<li>Ich möchte mir noch Tastaturkürzel für einige Sachen, wie z.B. “Bildschirmfoto von aktuellem Fenster machen”, definieren.</li>
+<li>An ein paar Stellen kollidieren Tastaturkürzel von Programmen mit den xmonad-Tastaturkürzeln, vornehmlich jenen, die mit dem Drücken der Alt-Taste beginnen. Ich habe Alt einmal auf die Windows-Taste umdefiniert (modMask), fand das allerdings so fürchterlich, dass ich wieder davon abgekommen bin, da das Drücken der Windows-Taste eine ziemliche Fingerakrobatik erfordert, wenn man mit der ganzen Hand auf der Tastatur “liegt”. Zur Lösung dieses Problems habe ich noch überhaupt keine Idee.</li>
+<li>Manche Programme funktionieren noch nicht richtig im Vollbildmodus; z.B. VLC oder Parole. mplayer geht allerdings.</li>
+<li>Meine Xfce-Programme sollten beim Start von xmonad auch automatisch mitstarten. Bis jetzt führe ich meine Skripte noch manuell aus.</li>
+<li>Dadurch, dass ich xfdesktop nicht ausführe, kann ich meinen Bildschirmhintergrund nicht mehr einstellen.</li>
+<li>Die Schriften schauen auch an manchen Stellen noch komisch aus.</li>
+</ul>
+<p>Ich hoffe, diese Punkte in einem anderen Artikel behandeln zu können, und hoffe, es war bis hierhin lehrreich! :)</p>
+
+        </div>
+        <div id="footer">
+            Post: (λ name domain. name@domain) "michael.faerber" "gedenkt.at"
+        </div>
+    </body>
+</html>
