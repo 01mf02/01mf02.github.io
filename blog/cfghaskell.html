@@ -32,9 +32,8 @@
 <p>In this little article, I will show you how to obtain the language of context-free grammars in Haskell, using its mechanisms for nondeterminism. Furthermore, I show you how to use the results to grade students’ homework. ;)</p>
 <h2 id="motivation">Motivation</h2>
 <p>Recently, I was facing the task of correcting a huge amount of students’ exams. In these exams, students had to create a context-free grammar (CFG) for a given formal language:</p>
-<blockquote>
-<p>L = {s1 + … + s2 <code>|</code> n &gt;= 1, every summand si is the variable x or a binary number (without leading zeros)}</p>
-</blockquote>
+<p>\[ L=\left\{ s_1+\dots+s_n\mid n\geq1, s_i \in \{x\} \cup \mathbb{B}\right\}, \]</p>
+<p>where \( \mathbb{B} \) is the set of binary numbers without leading zeros.</p>
 <p>Examples for words in this grammar include “x+101+0+x” and “1000”; words which are <em>not</em> included in the grammar are e.g. the empty word, “y”, “001+x”.</p>
 <p>A grammar solving this exercise could look like this:</p>
 <pre><code>S -&gt; T | S + S
@@ -193,3 +192,6 @@ va <span class="fu">=</span> <span class="dt">V</span> [[va, va], pure vm, pure 
 <link rel="icon" type="image/png" href="../media/gedenkt_small.png">
 <link rel="stylesheet" type="text/css" href="../css/default.css">
 <link rel="stylesheet" type="text/css" href="../css/syntax.css">
+
+<script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
