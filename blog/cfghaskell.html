@@ -1,28 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-    <head>
-        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Generating the language of a context-free grammar in Haskell - gedenkt.at</title>
-    </head>
-    <body>
-        <div id="header">
-            <div id="logo">
-                <a href="../"><img src="../media/gedenkt_small.png" /></a>
-            </div>
-            <div id="navigation">
-                <a href="../">Initium</a>
-                <a href="../erasmus.html">Erasmus</a>
-                <a href="../musica.html">Musica</a>
-                <a href="../blog.html">Blog</a>
-            </div>
-        </div>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Generating the language of a context-free grammar in Haskell - gedenkt.at</title>
 
-        <div id="content">
-            <h1>Generating the language of a context-free grammar in Haskell</h1>
+    <link rel="icon" type="image/png" href="../media/gedenkt_small.png">
+    <link rel="stylesheet" type="text/css" href="../css/default.css">
+    <link rel="stylesheet" type="text/css" href="../css/syntax.css">
+  </head>
+  <body>
+    <div id="header">
+      <div id="logo">
+        <a href="../"><img src="../media/gedenkt_small.png" /></a>
+      </div>
+      <div id="navigation">
+        <a href="../">Initium</a>
+        <a href="../erasmus.html">Erasmus</a>
+        <a href="../musica.html">Musica</a>
+        <a href="../blog.html">Blog</a>
+      </div>
+    </div>
 
-            <img src="../media/gedenkt.png" style="float: right; margin: 10px;" />
+    <div id="content">
+      <h1>Generating the language of a context-free grammar in Haskell</h1>
+
+      <img src="../media/gedenkt.png" style="float: right; margin: 10px;" />
 
 <div class="info">
     Geschrieben am 05. Jänner 2015
@@ -182,16 +186,13 @@ va <span class="fu">=</span> <span class="dt">V</span> [[va, va], pure vm, pure 
 (fromList ^CInterrupted.</code></pre>
 <p>… Haskell consumes memory faster than you can say “swap is for losers”. Needlessly to say, it probably will not terminate. I believe that this is because the Omega monad sometimes chooses production rules in such a way that an infinite loop can result. I was, so far, always able to fix this by moving production rules with terminals to the front, but there might be cases where this doesn’t help. Still, I found this approach very nice to work with, and as so often, I was amazed by the shortness and conciseness of the Haskell code. You can download my program with some examples from <a href="../media/2015-01-05-cfghaskell/CFG.hs">here</a>.</p>
 
-        </div>
-        <div id="footer">
-            Post: (λ name domain. name@domain) "michael.faerber" "gedenkt.at"
-        </div>
-    </body>
-</html>
+    </div>
 
-<link rel="icon" type="image/png" href="../media/gedenkt_small.png">
-<link rel="stylesheet" type="text/css" href="../css/default.css">
-<link rel="stylesheet" type="text/css" href="../css/syntax.css">
+    <div id="footer">
+      Post: (λ name domain. name@domain) "michael.faerber" "gedenkt.at"
+    </div>
+  </body>
+</html>
 
 <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
 </script>
