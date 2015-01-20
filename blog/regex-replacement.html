@@ -57,14 +57,14 @@ regex <span class="fu">=</span> unlines
 testText <span class="fu">=</span> unlines
   [ <span class="st">&quot;&lt;div class=\&quot;img-container\&quot;&gt;&quot;</span>
   , <span class="st">&quot;  &lt;img src=\&quot;/media/Arcachon.jpg\&quot; /&gt;&quot;</span>
-  , <span class="st">&quot;  &lt;p&gt;Description.&lt;/p&gt;&quot;</span>
+  , <span class="st">&quot;  &lt;p&gt;Les Dunes.&lt;/p&gt;&quot;</span>
   , <span class="st">&quot;&lt;/div&gt;&quot;</span>
   ]
 
 main <span class="fu">=</span> print <span class="fu">$</span> subRegex (mkRegex regex) testText <span class="st">&quot;![\\2](\\1)\n&quot;</span></code></pre>
 <p>Let us try it:</p>
 <pre><code>michi ~ $ runhaskell regex.hs
-&quot;![Description.](/media/Arcachon.jpg)\n&quot;</code></pre>
+&quot;![Les Dunes.](/media/Arcachon.jpg)\n&quot;</code></pre>
 <p>Yes, it works! (At this point, I confess that I took at least one hour to come up with this whole solution, including a countless number of “oh no, why does it not work?”.)</p>
 <p>I tested this with some other examples, and on one example, nothing was replaced. It was the following:</p>
 <pre class="sourceCode html"><code class="sourceCode html"><span class="kw">&lt;div</span><span class="ot"> class=</span><span class="st">&quot;img-container&quot;</span><span class="kw">&gt;</span>
