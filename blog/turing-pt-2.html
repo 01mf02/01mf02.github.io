@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Running Turing machines in Haskell, pt. 2 - gedenkt.at</title>
+
+    <link rel="icon" type="image/png" href="../media/gedenkt_small.png">
+    <link rel="stylesheet" type="text/css" href="../css/default.css">
+    <link rel="stylesheet" type="text/css" href="../css/syntax.css">
+  </head>
+  <body>
+    <div id="header">
+      <div id="logo">
+        <a href="../"><img src="../media/gedenkt_small.png" /></a>
+      </div>
+      <div id="navigation">
+        <a href="../">Initium</a>
+        <a href="../erasmus.html">Erasmus</a>
+        <a href="../musica.html">Musica</a>
+        <a href="../blog.html">Blog</a>
+      </div>
+    </div>
+
+    <div id="content">
+      <h1>Running Turing machines in Haskell, pt. 2</h1>
+
+      <img src="../media/gedenkt.png" style="float: right; margin: 10px;" />
+
+<div class="info">
+    Geschrieben am 04. Feber 2016
+    
+</div>
+
+<p>Some days ago, I was challenged to make a smaller version of my <a href="../blog/2015-01-10-turinghaskell.html">Turing machine simulator in Haskell</a>, which I did:</p>
+<pre><code>hdTl [] = (Nothing, [])
+hdTl (x:xs) = (Just x, xs)
+
+trans f (s, (l, c, r)) =
+  either (\ s' -&gt; let (h, t) = hdTl l in (s', (t, h, c':r)))
+         (\ s' -&gt; let (h, t) = hdTl r in (s', (c':l, h, t))) m
+  where (c', m) = f c s
+
+run f s = takeWhile ((`notElem` s) . fst) . iterate (trans f)</code></pre>
+<p>This version is a bit more limited, featuring only automatically generated output for machine runs, but otherwise works similarly.</p>
+<p>You can run a machine as follows:</p>
+<pre><code>test c 0 = maybe ('b', Right 1) (\ c -&gt; ('a', Right 0)) c
+
+main = print 
+
+    </div>
+
+    <div id="footer">
+      Post: (λ name domain. name@domain) "michael.faerber" "gedenkt.at"
+    </div>
+  </body>
+</html>
+
+<script async type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
