@@ -85,9 +85,9 @@ nm-applet &amp;
 <h2 id="ab-zu-xmonad">Ab zu xmonad</h2>
 <p>So, jetzt melde ich mich aus Xfce ab und in xmonad an. Wie ich mittlerweile schon weiß, startet man ein Terminal mit Alt-Shift-Enter und beendet xmonad mit Alt-Shift-Q. (Am Anfang dachte ich, dass die Installation nicht funktioniert hätte, weil Mausklicks auf die Arbeitsfläche keine Wirkung hatten und auch sonst kein Fenster zu sehen war. ^^) Nachdem ich also ein Terminal gestartet habe, führe ich meine beiden Skripten aus – oh Wunder, meine Xfce-Programme öffnen sich, und meine Bildschirmauflösung passt sich automatisch an meine Xfce-Einstellungen an (dank xfsettingsd)! Allerdings kann ich neugestartete Programme nicht sehen. Nach ein wenig Experimentierens merke ich, dass xfdesktop die Fehlerquelle darstellt, und schmeiße xfdesktop aus meiner xfce-base.sh. So, neuer Versuch ohne xfdesktop. Ja, diesmal schaut es besser aus! Ich sehe neugeöffnete Programme! :)</p>
 <p>An diesem Punkt bemerke ich allerdings, dass Xfce und xmonad noch nicht so richtig miteinander wollen; das Panel verdeckt meine Fenster, das Wechseln zwischen Fenstern wählt manchmal auch das Panel aus (sehr lästig!), sodass es Zeit für eine Überarbeitung ist und Zeit, eine xmonad-Konfiguration zu erstellen! Im Internet lese ich eine <a href="http://www.haskell.org/haskellwiki/Xmonad/Using_xmonad_in_XFCE#Using_XMonad.Config.Xfce">Version der Konfigurationsdatei mit Xfce</a>, was ich direkt probiere:</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">XMonad</span>
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">XMonad</span>
 <span class="kw">import </span><span class="dt">XMonad.Config.Xfce</span>
-main <span class="fu">=</span> xmonad xfceConfig</code></pre>
+main <span class="fu">=</span> xmonad xfceConfig</code></pre></div>
 <p>Das war’s, diese Zeilen kommen in die Datei ~/.xmonad/xmonad.hs. Ich prüfe mit</p>
 <pre><code>xmonad --recompile</code></pre>
 <p>nach, ob ich keine Fehler gemacht habe, und verleite xmonad mittels Alt-Q zum Neuladen der Konfiguration. Da ich noch keine Änderung feststellen kann, starte ich auch noch das Panel neu mittels:</p>
@@ -95,9 +95,9 @@ main <span class="fu">=</span> xmonad xfceConfig</code></pre>
 xfce4-panel &amp;</code></pre>
 <p>Tada! Mein Panel überlappt meine anderen Fenster nicht mehr und zeigt mir überdies auch noch äußerst geräumig meine Arbeitsflächen an. Als zusätzlichen Bonus kann ich das Panel auch ein-/ausblenden mit Alt-B.</p>
 <p>An diesem Punkt bemerke ich allerdings, dass xfceConfig eher dafür gedacht ist, xmonad <em>innerhalb</em> von Xfce zu betreiben und nicht andersherum, da ich xmonad z.B. nicht mehr mit Alt-Shift-Q beenden kann, da dies eine Xfce-Funktion aufruft, die ich aber gar nicht gestartet habe. Aus diesem Grunde stelle ich meine xmonad.hs ein wenig um:</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">XMonad</span>
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">XMonad</span>
 <span class="kw">import </span><span class="dt">XMonad.Config.Desktop</span>
-main <span class="fu">=</span> xmonad desktopConfig</code></pre>
+main <span class="fu">=</span> xmonad desktopConfig</code></pre></div>
 <p>Weiters lösche ich alle Tastaturkürzel von Xfce (via Xfce-Einstellungen), da mir im Laufe meiner Tests ein paar der Kürzel in die Quere gekommen sind und ich die Kürzel ohnehin nie verwende.</p>
 <h2 id="résumé">Résumé</h2>
 <p>Mittlerweile habe ich ein ganz anständiges System, mit dem ich produktiv arbeiten kann. Es benötigt aber noch ein wenig Arbeit:</p>

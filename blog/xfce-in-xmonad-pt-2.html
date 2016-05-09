@@ -50,7 +50,7 @@
 <p>Xfce startet xmonad automatisch beim Start, was ich durch einen Eintrag in den Sitzungseinstellungen (Autostart) erzielt habe, der mir einfach “xmonad –replace” aufruft. Fertig.</p>
 <p>Weiters habe ich (wie schon im letzten Artikel beschrieben) die Xfce-Tastaturkürzel deaktiviert, sodass es zu keinen ungewünschten Wechselwirkungen zwischen Xfce und xmonad kommt.</p>
 <p>Meine xmonad-Konfigurationsdatei schaut wie folgt aus:</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">XMonad</span>
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">XMonad</span>
 <span class="kw">import </span><span class="dt">XMonad.Config.Desktop</span>
 <span class="kw">import </span><span class="dt">XMonad.Config.Xfce</span>
 <span class="kw">import </span><span class="dt">XMonad.Hooks.SetWMName</span>
@@ -81,7 +81,7 @@ main <span class="fu">=</span> xmonad <span class="fu">$</span> xfceConfig
 	, ((mod4Mask, xK_m), spawn <span class="st">&quot;exo-open --launch MailReader&quot;</span>)
 	, ((mod4Mask, xK_b), spawn <span class="st">&quot;transmission-gtk&quot;</span>)
 	, ((mod4Mask, xK_p), spawn <span class="st">&quot;xfce4-display-settings&quot;</span>)
-	]</code></pre>
+	]</code></pre></div>
 <p>Dabei wäre das kleine, aber feine Tastenkürzel Alt-Shift-Ende hervorzuheben, das meinen Computer herunterfährt und mir bis zu drei Mausklicks erspart. ;) Zuvor benutzte ich unter xmonad die Befehle von <a href="https://bbs.archlinux.org/viewtopic.php?id=127962">folgender Seite</a>, also z.B.</p>
 <pre><code>dbus-send --system --print-reply --dest=&quot;org.freedesktop.ConsoleKit&quot; /org/freedesktop/ConsoleKit/Manager org.freedesktop.ConsoleKit.Manager.Stop</code></pre>
 <p>zum Ausschalten des Rechners. Da dieser Befehl allerdings unter Xfce nicht funktioniert, verwende ich nunmehr den Xfce-eigenen Befehl dafür.</p>

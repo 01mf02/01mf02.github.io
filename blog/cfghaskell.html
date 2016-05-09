@@ -62,10 +62,10 @@ A -&gt; 0 | AA | M | 0T</code></pre>
 <p>For this reason, I wanted to make a program that generates a bunch of words of a context-free grammar, so that I could have a quick look at its output and see apparent mistakes. For the implementation of this program, I chose Haskell, because it’s awesome.</p>
 <h2 id="the-program">The program</h2>
 <p>First, we have to decide how to model context-free grammars. We basically have two basic building blocks, i.e. atoms, in CFGs: Nonterminals and terminals. Nonterminals are characters, while variables can be characterised by their production rules. Let’s write this in Haskell:</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">type</span>     <span class="dt">Rule</span> <span class="fu">=</span> [<span class="dt">Atom</span>]
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">type</span>     <span class="dt">Rule</span> <span class="fu">=</span> [<span class="dt">Atom</span>]
 <span class="kw">type</span> <span class="dt">Variable</span> <span class="fu">=</span> [<span class="dt">Rule</span>]
 
-<span class="kw">data</span> <span class="dt">Atom</span> <span class="fu">=</span> <span class="dt">T</span> <span class="dt">Char</span> <span class="fu">|</span> <span class="dt">V</span> <span class="dt">Variable</span></code></pre>
+<span class="kw">data</span> <span class="dt">Atom</span> <span class="fu">=</span> <span class="dt">T</span> <span class="dt">Char</span> <span class="fu">|</span> <span class="dt">V</span> <span class="dt">Variable</span></code></pre></div>
 <p>Here we also wrote that each production rule is actually a sequence of atoms.</p>
 <p>Now that we have modeled context-free grammars, we would like to obtain the list of words (i.e. the language) they generate. How do we do that? The language of a terminal is just the character of the terminal. The language of a variable (nonterminal) is more complicated: Let’s demonstrate this with an example:</p>
 <pre><code>X -&gt; a
@@ -75,16 +75,16 @@ Z -&gt; X | Y</code></pre>
 <pre><code>Z =&gt; X =&gt; a
 Z =&gt; Y =&gt; bX =&gt; ba</code></pre>
 <p>That means that generating the language of a variable, we need to first pick a production rule, then obtain all the words for the atoms in the production rule and concatenate them. Phew, that sounds like a lot of work, but at this point, I remembered that <a href="http://learnyouahaskell.com/a-fistful-of-monads#the-list-monad">a chapter of “Learn You a Haskell for Great Good”</a> mentioned how to use nondeterminism in Haskell: Given a variable, you can basically just say in your code “I pick an arbitrary production rule”, and Haskell will then execute the code after that for <em>all</em> rules! When we then have the rule, we can do the same trick for the recursive step: We just say “give me one arbitrary word that is produced by my rule”, and it will run this for <em>all</em> the possible words that can be produced! Sounds cool, huh? And the code is really short.</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">lang ::</span> <span class="dt">Atom</span> <span class="ot">-&gt;</span> [<span class="dt">String</span>]
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="ot">lang ::</span> <span class="dt">Atom</span> <span class="ot">-&gt;</span> [<span class="dt">String</span>]
 lang (<span class="dt">T</span> t) <span class="fu">=</span> return [t]
 lang (<span class="dt">V</span> rules) <span class="fu">=</span> <span class="kw">do</span>
   rule <span class="ot">&lt;-</span> rules             <span class="co">-- pick a rule  </span>
   words <span class="ot">&lt;-</span> mapM lang rule   <span class="co">-- for each atom in the rule, produce a word from it</span>
-  return <span class="fu">$</span> concat words     <span class="co">-- concatenate the resulting words</span></code></pre>
+  return <span class="fu">$</span> concat words     <span class="co">-- concatenate the resulting words</span></code></pre></div>
 <p>That’s it. This code is supposed to generate all words producible by a context-free grammar. If you wonder more about how this works, I really recommend you to read the chapter I linked to above. Now to test this on some concrete example, let’s write in Haskell the example grammar from above:</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell">vx <span class="fu">=</span> <span class="dt">V</span> [[<span class="dt">T</span> <span class="ch">'a'</span>]]       <span class="co">-- X -&gt; a</span>
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell">vx <span class="fu">=</span> <span class="dt">V</span> [[<span class="dt">T</span> <span class="ch">'a'</span>]]       <span class="co">-- X -&gt; a</span>
 vy <span class="fu">=</span> <span class="dt">V</span> [[<span class="dt">T</span> <span class="ch">'b'</span>, vx]]   <span class="co">-- Y -&gt; bX</span>
-vz <span class="fu">=</span> <span class="dt">V</span> [[vx], [vy]]    <span class="co">-- Z -&gt; X | Y</span></code></pre>
+vz <span class="fu">=</span> <span class="dt">V</span> [[vx], [vy]]    <span class="co">-- Z -&gt; X | Y</span></code></pre></div>
 <p>Evaluating this in ghci will give:</p>
 <pre><code>$ ghci
 Prelude&gt; :l Lang.hs 
@@ -94,9 +94,9 @@ Ok, modules loaded: Main.
 [&quot;a&quot;,&quot;ba&quot;]</code></pre>
 <p>Cool, so we were really able to obtain all the words producible by Z!</p>
 <p>What about grammars that can produce an infinite amount of words? For this we slightly modify our current grammar, such that it reads as follows:</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell">vx <span class="fu">=</span> <span class="dt">V</span> [[<span class="dt">T</span> <span class="ch">'a'</span>], [<span class="dt">T</span> <span class="ch">'a'</span>, vx]]  <span class="co">-- X -&gt; a | aX</span>
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell">vx <span class="fu">=</span> <span class="dt">V</span> [[<span class="dt">T</span> <span class="ch">'a'</span>], [<span class="dt">T</span> <span class="ch">'a'</span>, vx]]  <span class="co">-- X -&gt; a | aX</span>
 vy <span class="fu">=</span> <span class="dt">V</span> [[<span class="dt">T</span> <span class="ch">'b'</span>, vx]]           <span class="co">-- Y -&gt; bX</span>
-vz <span class="fu">=</span> <span class="dt">V</span> [[vx], [vy]]            <span class="co">-- Z -&gt; X | Y</span></code></pre>
+vz <span class="fu">=</span> <span class="dt">V</span> [[vx], [vy]]            <span class="co">-- Z -&gt; X | Y</span></code></pre></div>
 <p>We should now be able to construct words like:</p>
 <pre><code>Z =&gt; a
 Z =&gt; ba
@@ -111,7 +111,7 @@ Ok, modules loaded: Main.
 [&quot;a&quot;,&quot;aa&quot;,&quot;aaa&quot;,&quot;aaaa&quot;,&quot;aaaaa&quot;,&quot;aaaaaa&quot;,&quot;aaaaaaa&quot;,&quot;aaaaaaaa&quot;,&quot;aaaaaaaaa&quot;,&quot;aaaaaaaaaa&quot;, ...]</code></pre>
 <p>Oh noes! We have only strings which start with ‘a’, thus our second production rule of variable Z is never considered! Thinking more about it, that sounds reasonable, because Haskell does not pick production rules at random, but it will start with the first rule and try to generate all possible words for it before continuing with the second rule. However, as you can already generate an infinite amount of words with the first production rule, it never gets to the second rule. How to fix this?</p>
 <p>Looking for the answer, I stumbled upon <a href="http://stackoverflow.com/a/20719886">a post on stackoverflow</a> by Petr Pudlák, which pointed me to the Omega monad: This seems to be a drop-in replacement for the list monad, which I implicitly used for obtaining nondeterminism. Basically, what the Omega monad does it that when you pick a production rule, it will vary the actually chosen production rule such that all production rules are eventually evaluated. The nice thing about this monad is that we do not really have to change a lot of our code to benefit from it:</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">Control.Monad.Omega</span>
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">Control.Monad.Omega</span>
 
 <span class="kw">type</span>     <span class="dt">Rule</span> <span class="fu">=</span> [<span class="dt">Atom</span>]
 <span class="kw">type</span> <span class="dt">Variable</span> <span class="fu">=</span> [<span class="dt">Rule</span>]
@@ -128,7 +128,7 @@ lang (<span class="dt">V</span> rules) <span class="fu">=</span> <span class="kw
 <span class="co">-- we cannot run `lang' directly, because it returns a monadic result, but we</span>
 <span class="co">-- get the result out quite easily with this helper function</span>
 <span class="ot">langO ::</span> <span class="dt">Atom</span> <span class="ot">-&gt;</span> [<span class="dt">String</span>]
-langO <span class="fu">=</span> runOmega <span class="fu">.</span> lang</code></pre>
+langO <span class="fu">=</span> runOmega <span class="fu">.</span> lang</code></pre></div>
 <p>Now what happens if we run this Omega version?</p>
 <pre><code>*Main&gt; take 10 $ langO vz
 [&quot;a&quot;,&quot;aa&quot;,&quot;ba&quot;,&quot;aaa&quot;,&quot;baa&quot;,&quot;aaaa&quot;,&quot;baaa&quot;,&quot;aaaaa&quot;,&quot;baaaa&quot;,&quot;aaaaaa&quot;]</code></pre>
@@ -136,7 +136,7 @@ langO <span class="fu">=</span> runOmega <span class="fu">.</span> lang</code></
 <h2 id="using-it-as-an-exam-evaluation-tool">Using it as an exam evaluation tool</h2>
 <p>Now that we saw how to generate the language of a grammar, we would like to enter a student’s solution, and get possible counterexamples of words which his grammar produces and my reference solution grammar does not. The sophisticated path to take here would be to generate a set of words of his grammar, then decide with an algorithm such as <a href="http://en.wikipedia.org/wiki/CYK_algorithm">CYK</a> if all his words are accepted by my reference grammar. However, for CYK, you need Chomsky normal form, and we still have a pile of 60 exams to correct, so no time to implement that, right? There is also a quick-and-dirty solution: You generate a set of let’s say 50 words of the student’s grammar, then generate let’s say 500 words of your reference grammar, then display those of the 50 student words which are <em>not</em> contained in the 500 reference words. My experiments showed that in many cases this gives a very nice impression of errors the students made.</p>
 <p>Let’s look at a concrete example: For this, let us formalise my reference grammar and one of my students’ grammars. In the following code snippet, I used <code>pure x</code> instead of <code>[x]</code>, because writing these brackets is such a pain when using an Austrian keyboard layout:</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">Control.Applicative</span> (pure)
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">Control.Applicative</span> (pure)
 
 <span class="co">-- terminals</span>
 tx, tp, t0,<span class="ot"> t1 ::</span> <span class="dt">Atom</span>
@@ -155,9 +155,9 @@ va <span class="fu">=</span> <span class="dt">V</span> [pure t0, [va, va], pure 
 vsum <span class="fu">=</span> <span class="dt">V</span> [pure vtok, [vsum, tp, vsum]]       <span class="co">-- S -&gt; T | S + S</span>
 vtok <span class="fu">=</span> <span class="dt">V</span> [pure tx, pure vbool]               <span class="co">-- T -&gt; x | B</span>
 vbool  <span class="fu">=</span> <span class="dt">V</span> [pure t0, [t1, vbool']]           <span class="co">-- B -&gt; 0 | 1C</span>
-vbool' <span class="fu">=</span> <span class="dt">V</span> [[], [t0, vbool'], [t1, vbool']]  <span class="co">-- C -&gt; ε | 0C | 1C</span></code></pre>
+vbool' <span class="fu">=</span> <span class="dt">V</span> [[], [t0, vbool'], [t1, vbool']]  <span class="co">-- C -&gt; ε | 0C | 1C</span></code></pre></div>
 <p>Now comes the code to compare two grammars:</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">Data.Set</span> ((\\), fromList)
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">import </span><span class="dt">Data.Set</span> ((\\), fromList)
 
 v1 <span class="ot">`langDiff`</span> v2 <span class="fu">=</span>
   (fromList (take few l1) \\ fromList (take many l2),
@@ -165,7 +165,7 @@ v1 <span class="ot">`langDiff`</span> v2 <span class="fu">=</span>
   <span class="kw">where</span> l1 <span class="fu">=</span> langO v1
         l2 <span class="fu">=</span> langO v2
         few <span class="fu">=</span> <span class="dv">50</span>
-        many <span class="fu">=</span> few <span class="fu">*</span> <span class="dv">100</span></code></pre>
+        many <span class="fu">=</span> few <span class="fu">*</span> <span class="dv">100</span></code></pre></div>
 <p>First, I used the <code>\\</code> operator from Data.List to build the difference of the two lists, until I recognised that <code>\\</code> only deletes the first appearance of an element in a list. That did cost me an hour!</p>
 <p>Anyway, what do we get if we now compare the student’s grammar with mine?</p>
 <pre><code>*Main&gt; vsum `langDiff` vs
@@ -178,10 +178,10 @@ v1 <span class="ot">`langDiff`</span> v2 <span class="fu">=</span>
 <p>Great, so now the “10+x” has disappeared. When we manually check the remaining counterexamples, we see that in fact e.g. “11” cannot be produced from the student’s grammar! The proof, as always, is left to the interested reader. ;)</p>
 <h2 id="problem-of-this-approach">Problem of this approach</h2>
 <p>Not all is roses in the monad world, because we have to watch out when we formalise our grammars in Haskell. If we slightly change the order of our production rules in the student’s grammar above, …</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="co">-- before (works)</span>
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="co">-- before (works)</span>
 va <span class="fu">=</span> <span class="dt">V</span> [pure t0, [va, va], pure vm, [t0, vt]]
 <span class="co">-- after (fails)</span>
-va <span class="fu">=</span> <span class="dt">V</span> [[va, va], pure vm, pure t0, [t0, vt]]</code></pre>
+va <span class="fu">=</span> <span class="dt">V</span> [[va, va], pure vm, pure t0, [t0, vt]]</code></pre></div>
 <pre><code>*Main&gt; vsum `langDiff` vs
 (fromList ^CInterrupted.</code></pre>
 <p>… Haskell consumes memory faster than you can say “swap is for losers”. Needlessly to say, it probably will not terminate. I believe that this is because the Omega monad sometimes chooses production rules in such a way that an infinite loop can result. I was, so far, always able to fix this by moving production rules with terminals to the front, but there might be cases where this doesn’t help. Still, I found this approach very nice to work with, and as so often, I was amazed by the shortness and conciseness of the Haskell code. You can download my program with some examples from <a href="../media/2015-01-05-cfghaskell/CFG.hs">here</a>.</p>

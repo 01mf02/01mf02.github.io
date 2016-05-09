@@ -56,7 +56,7 @@
 <h2 id="haskell">Haskell</h2>
 <p>The implementation of the Turing machine as described above turned out to be relatively easy. The most complicated part turned out to be how to represent the tape and the tape head efficiently: I represent these by the sequence of symbols on the tape to the left of the tape head, the symbol under the tape head, and finally the sequence of symbols to the right of the tape head. One could represent these sequences by Haskell lists, but consider that when the tape head moves left, we have to obtain the rightmost (i.e. last) symbol from the tape part to the left of the the tape head position, and obtaining the last element of a list in Haskell is slow. For this reason, I chose Haskell’s Sequence datatype, which, among other nice features, allows constant-time retrieval of the last sequence element. Here I’d like to quote Dan Burton, who called Haskell’s sequences <a href="http://stackoverflow.com/a/9613203">“functional awesomesauce”</a>.</p>
 <p>Now, without further ado, here is the code:</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">module</span> <span class="dt">Turing</span> <span class="kw">where</span>
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="kw">module</span> <span class="dt">Turing</span> <span class="kw">where</span>
 
 <span class="kw">import           </span><span class="dt">Data.Foldable</span> (toList)
 <span class="kw">import qualified</span> <span class="dt">Data.List</span> <span class="kw">as</span> <span class="dt">L</span>
@@ -142,9 +142,9 @@ runMachine m <span class="fu">=</span>
   break' (machineCfgFinal m) <span class="fu">.</span> iterate (updateMachineCfg m) <span class="fu">.</span> initMachineCfg m
   <span class="kw">where</span>
     <span class="co">-- | Like 'break', but also return first element that fulfills condition</span>
-    break' p xs <span class="fu">=</span> <span class="kw">let</span> (prefix, rest) <span class="fu">=</span> break p xs <span class="kw">in</span> prefix <span class="fu">++</span> [head rest]</code></pre>
+    break' p xs <span class="fu">=</span> <span class="kw">let</span> (prefix, rest) <span class="fu">=</span> break p xs <span class="kw">in</span> prefix <span class="fu">++</span> [head rest]</code></pre></div>
 <p>Now we would like to test this code on an example machine. For this, I made a very simple Turing machine: It starts in state 0 and will move to the right as long as it reads any symbol (<code>Just x</code> in the code below) on the tape. As soon as the tape head goes beyond the tape (represented by <code>Nothing</code> in the code below), it writes an ‘E’ there and goes to state 1. In this state, it will just move the tape head all the way back to the left until the start of the tape, at which point it will write an ‘S’ to the tape and go into state 2, which is the accepting state. It is easy to see that this machine terminates on all possible inputs.</p>
-<pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="co">-- | A Turing machine accepting all input.</span>
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell"><span class="co">-- | A Turing machine accepting all input.</span>
 <span class="ot">testMachine ::</span> <span class="dt">Machine</span>
 testMachine <span class="fu">=</span>
   <span class="dt">Machine</span> { transition <span class="fu">=</span> t
@@ -157,7 +157,7 @@ testMachine <span class="fu">=</span>
   t <span class="dv">1</span> (<span class="dt">Just</span> x) <span class="fu">=</span> (<span class="dv">1</span>,   x, <span class="dt">MoveLeft</span>)
   t <span class="dv">1</span> <span class="dt">Nothing</span>  <span class="fu">=</span> (<span class="dv">2</span>, <span class="ch">'S'</span>, <span class="dt">MoveRight</span>)
 
-main <span class="fu">=</span> print <span class="fu">$</span> runMachine testMachine <span class="st">&quot;10011&quot;</span></code></pre>
+main <span class="fu">=</span> print <span class="fu">$</span> runMachine testMachine <span class="st">&quot;10011&quot;</span></code></pre></div>
 <p>What is the output of running this?</p>
 <pre><code>michi ~ $ runhaskell Turing.hs
 10011
