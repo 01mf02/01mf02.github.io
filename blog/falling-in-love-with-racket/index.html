@@ -34,7 +34,7 @@
 </div>
 
 <p>In the last days, I discovered the <a href="http://racket-lang.org/">Racket programming language</a> following <a href="https://lexi-lambda.github.io/blog/2017/01/02/rascal-a-haskell-with-more-parentheses/">a blog post of Alexis King</a>.</p>
-<p>My interest was further sparked as I read the online books of Matthew Butterick, namely <a href="http://practicaltypography.com/">Practical Typography</a> and <a href="http://beautifulracket.com/">Beautiful Racket</a>. The case he makes for Racket is that can be used as a framework to define new languages, which is significantly easier than in other languages, and that programs in the newly defined languages enjoy immediate support from the Racket tooling.</p>
+<p>My interest was further sparked as I discovered the online books of Matthew Butterick, namely <a href="http://practicaltypography.com/">Practical Typography</a> and <a href="http://beautifulracket.com/">Beautiful Racket</a>. The case he makes for Racket is that can be used as a framework to define new languages, which is significantly easier than in other languages, and that programs in the newly defined languages enjoy immediate support from the Racket tooling.</p>
 <p>For example, I was able to create a slideshow in one hour in a Racket-based language using the amazing DrRacket IDE. The slideshow shows an animation and displays a plot:</p>
 <div class="sourceCode"><pre class="sourceCode scheme"><code class="sourceCode scheme">#lang slideshow
 
@@ -78,17 +78,21 @@
 
 (stream-for-each println test)</code></pre></div>
 <p>This prints all numbers from 0 to 99999. An equivalent Haskell version:</p>
-<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell">tests <span class="fu">=</span> [<span class="dv">0</span> <span class="fu">..</span>]
+<div class="sourceCode"><pre class="sourceCode haskell"><code class="sourceCode haskell">test <span class="fu">=</span> [<span class="dv">0</span> <span class="fu">..</span>]
 
-main <span class="fu">=</span> mapM_ putStrLn (map show (takeWhile (<span class="fu">&lt;</span> <span class="dv">100000</span>) tests))</code></pre></div>
+main <span class="fu">=</span> mapM_ putStrLn (map show (takeWhile (<span class="fu">&lt;</span> <span class="dv">100000</span>) test))</code></pre></div>
 <p>The Haskell version is much smaller, but this can safely be attributed to my being a novice in Racket, having written above program basically directly after having done the obligatory “Hello World”, with the only goal of finding out whether lazy lists are nice to use in Racket. (The answer is a clear “yes”.) On the other hand, when running the two programs with <code>racket</code> and <code>runghc</code> respectively, the Racket version performed better, taking only 0.68s vs 1.28s.</p>
-<p>Another quick experiment was to reverse every individual line of a file and to print all lines.</p>
+<p>Another quick experiment was to reverse every individual line of a file and to print all resulting lines.</p>
 <pre><code>(for-each (compose displayln list-&gt;string reverse string-&gt;list)
   (file-&gt;lines &quot;problems.txt&quot;))</code></pre>
-<p>Again, the Haskell version is a bit smaller, mostly because strings are lists in Haskell. (This characteristic however bites in other places.)</p>
+<p>The version above has the disadvantage that it first has to read in the whole file, and only then starts processing it. We can do better using “sequences”, which allow us to iterate over specific parts of an input, for example the lines of a file. The following code was created in roughly 30 minutes and required understanding Racket’s “ports” and “sequences”, both which were relatively easy to grasp given the – I reiterate – excellent documentation:</p>
+<pre><code>(call-with-input-file &quot;problems.txt&quot; (lambda (in)
+  (sequence-for-each (compose displayln list-&gt;string reverse string-&gt;list)
+    (in-lines in))))</code></pre>
+<p>As before, the Haskell version is a bit smaller, mostly because strings are lists in Haskell. (This characteristic bites in other places.) Furthermore, this example uses lazy I/O, which can cause surprises and is therefore commonly discouraged in favour of streaming libraries.</p>
 <pre><code>readFile &quot;input.txt&quot; &gt;&gt;= mapM_ putStrLn . map reverse . lines</code></pre>
 <p>In conclusion, I have really enjoyed learning the concepts of Racket, and I was very astonished to see that so far, the lack of types (which I would have considered an absolute no-go still one week ago) has been much less of a problem than I thought.</p>
-<p>The Racket community seems small, but extremely motivated, so I would not wonder about this language gaining momentum.</p>
+<p>The Racket community seems small, but extremely motivated, leading me to believe that this language will gain momentum.</p>
 
     </div>
 
