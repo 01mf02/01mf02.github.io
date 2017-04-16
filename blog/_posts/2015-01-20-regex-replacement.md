@@ -46,13 +46,13 @@ testText = unlines
   , "</div>"
   ]
 
-main = print $$ subRegex (mkRegex regex) testText "![\\2](\\1)\n"
+main = print $ subRegex (mkRegex regex) testText "![\\2](\\1)\n"
 ~~~
 
 Let us try it:
 
 ~~~
-michi ~ $$ runhaskell regex.hs
+michi ~ $ runhaskell regex.hs
 "![Les Dunes.](/media/Arcachon.jpg)\n"
 ~~~
 
@@ -70,7 +70,7 @@ I tested this with some other examples, and on one example, nothing was replaced
 What is wrong about this? It contains 'è' and 'ä'. "But we are in the 21th century, what about Unicode?", I hear you blubber out in disbelief. I concur, but apparently old habits die hard, and Unicode is still not supported everywhere. Fear not, for you have a remedy at hand: The [Text.Regex] module which I used is provided by several packages, the default one being [regex-compat][], which does seem to not support Unicode. However, as I found out via [Stack Overflow][regex-tdfa-post], there is a replacement called [regex-compat-tdfa][] which supports Unicode. One `cabal-install regex-compat-tdfa` later, I get a new error message:
 
 ~~~
-michi ~ $$ ghci
+michi ~ $ ghci
 GHCi, version 7.6.3: http://www.haskell.org/ghc/  :? for help
 Prelude> import Text.Regex
 
@@ -92,7 +92,7 @@ To use our program on an existing file, we have to `cat` the file to the Haskell
 
 ~~~ bash
 mkdir modified
-for i in *.md; do cat $$i | runhaskell regex.hs > modified/$$i; done
+for i in *.md; do cat $i | runhaskell regex.hs > modified/$i; done
 ~~~
 
 And that's it! For your reference, here is the final Haskell file:

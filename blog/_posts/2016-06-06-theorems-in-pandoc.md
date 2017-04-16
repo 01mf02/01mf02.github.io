@@ -7,7 +7,7 @@ can add considerably noise to the document. For example:
 
 ~~~ latex
 \begin{definition}[Iteration]
-The iteration of a function is $$\iterate(f, x) = f(x) \cup \iterate(f, f(x)).$$
+The iteration of a function is $\iterate(f, x) = f(x) \cup \iterate(f, f(x)).$
 \end{definition}
 ~~~
 
@@ -15,7 +15,7 @@ Wouldn't it be nicer to write the following?
 
 ~~~
 Definition (Iteration).
-The iteration of a function is $$\iterate(f, x) = f(x) \cup \iterate(f, f(x)).$$
+The iteration of a function is $iterate(f, x) = f(x) \cup \iterate(f, f(x)).$
 ~~~
 
 I had enough of scratching this itch, so I bandaged it with a nice
@@ -27,17 +27,17 @@ This is a little example of how to use naturally-looking
 mathematical environments in Pandoc.
 
 Definition (Natural numbers). \label{def:nat}
-Let $$\mathbb{N}$$ the set $${0, 1, 2, \ldots}$$
+Let $mathbb{N}$ the set ${0, 1, 2, \ldots}$.
 
 We now use definition \ref{def:nat} to show a simple property.
 
-Lemma. $$\mathbb{N}$$ is infinite.
+Lemma. $\mathbb{N}$ is infinite.
 
 Proof. Trivial.
 
 This leads us to our main result.
 
-Theorem (Greatest element). There does not exist a greatest element in $$\mathbb{N}$$.
+Theorem (Greatest element). There does not exist a greatest element in $\mathbb{N}$.
 
 Proof (Proof of the main theorem). Also trivial.
 ~~~
@@ -67,7 +67,7 @@ main = toJSONFilter replaceEnvs
 
 -- | See stripPrefix.
 stripPostfix :: Eq a => [a] -> [a] -> Maybe [a]
-stripPostfix post l = reverse <$$> stripPrefix (reverse post) (reverse l)
+stripPostfix post l = reverse <$> stripPrefix (reverse post) (reverse l)
 
 fromStr :: Inline -> Maybe String
 fromStr (Str s) = Just s
@@ -87,7 +87,7 @@ inlineBetween :: String -> String -> [Inline] -> Maybe ([Inline], [Inline])
 inlineBetween pre post (Str s : xs) | Just s' <- stripPrefix pre s =
   case break (isJust . stripStrPostfix post) (Str s' : xs) of
     (_, []) -> Nothing
-    (x, y:ys) -> Just (x ++ [Str $$ fromJust $$ stripStrPostfix post y], ys)
+    (x, y:ys) -> Just (x ++ [Str $ fromJust $ stripStrPostfix post y], ys)
 inlineBetween _ _ _ = Nothing
 
 envs :: [(String, String)]
@@ -100,12 +100,12 @@ envs =
 
 -- | Try all different environment types.
 replaceEnvs :: Maybe Format -> Block -> Block
-replaceEnvs fmt blk = foldr ($$) blk (map (replaceEnv fmt) envs)
+replaceEnvs fmt blk = foldr ($) blk (map (replaceEnv fmt) envs)
 
 makeEnv :: String -> Maybe [Inline] -> Maybe String -> [Inline] -> [Inline]
 makeEnv env name label text =
-  maybe ([tex begin]) (\ n -> [tex $$ begin ++ "["] ++ n ++ [tex "]"]) name ++
-  maybe [] (\ l -> [tex $$ "\\label{" ++ l ++ "}"]) label ++
+  maybe ([tex begin]) (\ n -> [tex $ begin ++ "["] ++ n ++ [tex "]"]) name ++
+  maybe [] (\ l -> [tex $ "\\label{" ++ l ++ "}"]) label ++
   text ++ [tex end]
   where
     tex = RawInline (Format "latex")
@@ -114,15 +114,15 @@ makeEnv env name label text =
 
 -- | Try to read name and create environment.
 nameEnv :: String -> Maybe String -> [Inline] -> Maybe Block
-nameEnv env label ys = paraEnv <$$> inlineBetween "(" ")." ys
-  where paraEnv (name, rest) = Para $$ makeEnv env (Just name) label rest
+nameEnv env label ys = paraEnv <$> inlineBetween "(" ")." ys
+  where paraEnv (name, rest) = Para $ makeEnv env (Just name) label rest
 
 -- | Try to read label and name, and create environment.
 labelNameEnv :: String -> [Inline] -> Maybe Block
 labelNameEnv env ys = case ys of
   -- Example: Theorem pyth.
   Str (l:bld) : zs | l /= '(', Just bl <- stripPostfix "." bld ->
-    Just $$ Para $$ makeEnv env Nothing (Just (l:bl)) zs
+    Just $ Para $ makeEnv env Nothing (Just (l:bl)) zs
   -- Example: Theorem pyth (Pythagoras).
   Str (l:bl) : Space : zs | l /= '(' -> nameEnv env (Just (l:bl)) zs
   -- Example: Theorem (Pythagoras).
@@ -131,7 +131,7 @@ labelNameEnv env ys = case ys of
 
 replaceEnv :: Maybe Format -> (String, String) -> Block -> Block
 replaceEnv (Just (Format "latex")) (txt, latex) p@(Para (Str x : xs)) =
-  if x == txt ++ "." then Para $$ makeEnv latex Nothing Nothing xs
+  if x == txt ++ "." then Para $ makeEnv latex Nothing Nothing xs
   else if x == txt then case xs of
     (Space : ys) -> fromMaybe p (labelNameEnv latex ys)
     _ -> p

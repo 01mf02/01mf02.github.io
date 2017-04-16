@@ -38,16 +38,16 @@ import XMonad.Hooks.SetWMName
 import XMonad.Layout.NoBorders
 import XMonad.Util.EZConfig
 
-main = xmonad $$ xfceConfig
+main = xmonad $ xfceConfig
 	{ startupHook = startupHook xfceConfig >>
 	    -- make Java programs resize correctly by pretending we are a
 	    -- different WM (camouflage)
 	    setWMName "LG3D"
 
 	  -- inherit layout from desktopConfig
-	, layoutHook = desktopLayoutModifiers $$
+	, layoutHook = desktopLayoutModifiers $
 	    -- do not show window borders in fullscreen mode
-	    smartBorders $$
+	    smartBorders $
 	    -- switch only between two tiling algorithms instead of three
 	    -- as in the default configuration
 	    Tall 1 (3/100) (1/2) ||| Full
