@@ -9,6 +9,6 @@ Ich möchte bei dieser Arbeit allerdings betonen, dass sich die Noten der Klavie
 Viel Spaß beim Interpretieren! Die Noten sind [hier][Neue Noten], der LilyPond-Quelltext [dort][Quelltext] erhältlich.
 
 [LilyPond]: http://lilypond.org
-[Alte Noten]: $media$/telefonbuchpolka_alt.pdf
-[Neue Noten]: $media$/telefonbuchpolka.pdf
-[Quelltext]: $media$/telefonbuchpolka.ly
+[Alte Noten]: {% include media %}/telefonbuchpolka_alt.pdf
+[Neue Noten]: {% include media %}/telefonbuchpolka.pdf
+[Quelltext]: {% include media %}/telefonbuchpolka.ly
