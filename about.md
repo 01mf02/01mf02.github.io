@@ -10,7 +10,7 @@ Grüß Gott, meine sehr verehrten Damen und Herren,
 
 dovolte, abych se představil.
 Mein Name ist Michael Färber, ich bin Jahrgang 1989 und
-Doktorand in der Gruppe [Computational Logic] [CL] am
+[Doktorand] [Me@CL] in der Gruppe [Computational Logic] [CL] am
 [Institut für Informatik] [IFI] an der [Universität Innsbruck] [UIBK].
 Mich interessiert insbesondere die Schnittstelle zwischen
 Mathematik und Informatik, also die Logik und die funktionale Programmierung,
@@ -25,6 +25,7 @@ Außerdem [spiele ich Klavier] [Musik] und singe im [Unichor] [],
 spiele Tischtennis und ehre die Siesta.
 
 
+[Me@CL]: http://cl-informatik.uibk.ac.at/users/mfaerber/
 [CL]: http://cl-informatik.uibk.ac.at/
 [IFI]: http://informatik.uibk.ac.at/
 [UIBK]: http://www.uibk.ac.at/
