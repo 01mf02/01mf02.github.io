@@ -3,7 +3,7 @@ layout: post
 title: Xfce in xmonad
 ---
 
-*Aktualisierung*: Mittlerweile habe ich [den zweiten Teil des Artikels](/blog/xfce-in-xmonad-pt-2.html) geschrieben.
+*Aktualisierung*: Mittlerweile habe ich [den zweiten Teil des Artikels](/blog/xfce-in-xmonad-pt-2) geschrieben.
 
 Kürzlich habe ich den Fenstermanager [xmonad] ausprobiert, und ich war ziemlich begeistert: Nach kurzer Zeit war ich beim Verwalten meiner Fenster um einiges schneller als zuvor, und ich musste die Maus nur noch sehr sporadisch einsetzen -- eine exzellente Sache, auch im Hinblick auf ergonomisches Arbeiten.
 

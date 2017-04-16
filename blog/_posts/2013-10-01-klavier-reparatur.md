@@ -3,7 +3,7 @@ layout: post
 title: Klavier-Reparatur
 ---
 
-Mein elektronisches Klavier (ein Yamaha Clavinova CLP-170 mit GH3-Tastatur) hatte schon seit längerer Zeit einen unangenehmen [Defekt](/blog/konzert-im-vierundeinzig.html): Bei manchen Tasten erzeugte das Klavier manchmal einen sehr lauten Ton. Wenn ich also ein Stück sehr zart spielte, fiel ich manchmal fast vom Klavierstuhl, wenn ein Ton plötzlich ganz unerwartet sehr laut war.
+Mein elektronisches Klavier (ein Yamaha Clavinova CLP-170 mit GH3-Tastatur) hatte schon seit längerer Zeit einen unangenehmen [Defekt](/blog/konzert-im-vierundeinzig): Bei manchen Tasten erzeugte das Klavier manchmal einen sehr lauten Ton. Wenn ich also ein Stück sehr zart spielte, fiel ich manchmal fast vom Klavierstuhl, wenn ein Ton plötzlich ganz unerwartet sehr laut war.
 
 Diese Situation wollte ich also möglichst bald beheben und machte mich zu diesem Zwecke im Internet schlau: Laut [dieser](http://www.pianoworld.com/forum/ubbthreads.php/topics/1402728/Yamaha%20CLP:%20Fixing%20hammer%20sens.html) und [dieser](http://www.fixya.com/support/t1004118-yamaha_digital_piano_clp_170) Seite ist das ein häufiges Phänomen, das durch den Verschleiß von Gummikontakten im Klavier verursacht wird und durch den Austausch derselben zu beheben ist.
 
