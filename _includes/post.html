@@ -1,0 +1,9 @@
+<li>
+  <span class="post-meta">{% include date %}</span>
+
+  <h2>
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+     {{ post.title }} {% if post.categories contains 'musica' %}♫{% endif %}
+    </a>
+  </h2>
+</li>

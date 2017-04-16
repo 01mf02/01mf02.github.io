@@ -1,0 +1,21 @@
+# Site settings
+title: Michael Färber
+email: michael.faerber@diese-domain
+description: > # this means to ignore newlines until "baseurl:"
+  Logik, Musik, Fahrrad, Sprachen.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gedenkt.at" # the base hostname & protocol for your site
+github_username: 01mf02
+
+# Build settings
+markdown: kramdown
+
+permalink: /:categories/:title/
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts" # previously `post` in Jekyll 2.2.
+    values:
+      layout: "post"

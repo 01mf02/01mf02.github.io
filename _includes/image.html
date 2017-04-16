@@ -1,0 +1,8 @@
+<figure class="image">
+  {% if include.media %}
+  <img src="{% include media %}/{{ include.media }}" alt="{{ include.caption }}">
+  {% else %}
+  <img src="{{ include.url }}" alt="{{ include.caption }}">
+  {% endif %}
+  <figcaption>{{ include.caption }}</figcaption>
+</figure>
