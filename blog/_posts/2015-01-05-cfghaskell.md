@@ -264,4 +264,6 @@ va = V [[va, va], pure vm, pure t0, [t0, vt]]
 ~~~
 
 ... Haskell consumes memory faster than you can say "swap is for losers". Needlessly to say, it probably will not terminate. I believe that this is because the Omega monad sometimes chooses production rules in such a way that an infinite loop can result. I was, so far, always able to fix this by moving production rules with terminals to the front, but there might be cases where this doesn't help.
-Still, I found this approach very nice to work with, and as so often, I was amazed by the shortness and conciseness of the Haskell code. You can download my program with some examples from [here]($media$/CFG.hs).
+Still, I found this approach very nice to work with, and as so often,
+I was amazed by the shortness and conciseness of the Haskell code.
+You can download my program with some examples from [here]({% include media %}/CFG.hs).

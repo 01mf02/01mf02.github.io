@@ -194,7 +194,18 @@ S10011E
 ~~~
 
 
-In the output, we see the different configurations of the Turing machine for the input word "10011". The '|' signifies the current position of the tape head, and the "qn" signifies the current state. In the last configuration, we see that the Turing machine has reached state q2, and because q2 is the accepting state, we know that the Turing machine has accepted the input word.
+In the output, we see the different configurations of the Turing machine
+for the input word "10011".
+The `|` signifies the current position of the tape head,
+and the `qn` signifies the current state.
+In the last configuration, we see that the Turing machine has reached state q2,
+and because q2 is the accepting state,
+we know that the Turing machine has accepted the input word.
 
 
-I hope that this article has been instructive. Have fun playing with [the code]($media$/Turing.hs), and if you want something more visual to get a feeling for Turing machines, I can warmly recommend you to look at [Manufactoria](http://pleasingfungus.com/Manufactoria/). It has certainly delayed the publication of this article by several hours. ;)
+I hope that this article has been instructive.
+Have fun playing with [the code]({% include media %}/Turing.hs),
+and if you want something more visual to get a feeling for Turing machines,
+I can warmly recommend you to look at
+[Manufactoria](http://pleasingfungus.com/Manufactoria/).
+It has certainly delayed the publication of this article by several hours. ;)
