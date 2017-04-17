@@ -3,6 +3,8 @@ layout: post
 title: Generating the language of a context-free grammar in Haskell
 ---
 
+{% include mathjax.html %}
+
 In this little article, I will show you how to obtain the language of context-free grammars in Haskell, using its mechanisms for nondeterminism. Furthermore, I show you how to use the results to grade students' homework. ;)
 
 ## Motivation
