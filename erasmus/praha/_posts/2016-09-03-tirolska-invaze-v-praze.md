@@ -42,13 +42,7 @@ Der Anblick der pražský hrad bei goldenem Sonnenuntergang war es jedoch wert.
 {% include image.html caption="Katedrála sv. Víta." media="IMG_20160824_194722.jpg" %}
 
 Außerdem sahen wir die [zlatá ulička], also das Goldene Gässchen in der Burg,
-in der Franz Kafka für einige Zeit gewohnt hat.
-^[An dieser Stelle korrigiere ich übrigens eine Aussage,
-die ich in einem früheren Artikel getätigt habe, nämlich dass die
-Prager ihrem berühmtesten Schriftsteller kein ehrendes Denkmal
-in Form eines öffentlichen Ortes gewidmet hätten, denn wir kamen durchaus
-an dem [Náměstí Franze Kafky] im Herzen der Innenstadt vorbei,
-wo Kafka geboren wurde.]
+in der Franz Kafka für einige Zeit gewohnt hat.[^kafka]
 Normalerweise muss man Eintritt in besagtes Goldenes Gässchen zahlen,
 was sicher schon für die eine oder andere Goldene Nase gesorgt hat,
 aber wir blieben aufgrund der späten Stunde davon und von den sonst
@@ -65,6 +59,14 @@ Jedenfalls kam ich durch Gerald und Knappi in den Genuss meines
 heimatlichen Idioms, inklusive Diskussionen des Genres, ob denn
 "kostenloser Eintritt" korrektes Deutsch wäre (sei?).
 Ach ja, deutsche Sprache, schwere Sprache.
+
+[^kafka]:
+    An dieser Stelle korrigiere ich übrigens eine Aussage,
+    die ich in einem früheren Artikel getätigt habe, nämlich dass die
+    Prager ihrem berühmtesten Schriftsteller kein ehrendes Denkmal
+    in Form eines öffentlichen Ortes gewidmet hätten, denn wir kamen durchaus
+    an dem [Náměstí Franze Kafky] im Herzen der Innenstadt vorbei,
+    wo Kafka geboren wurde.
 
 Hingegen in Kopenhagen kam ich mit der dänischen Sprache sehr gut zurecht
 und konnte durchaus nicht die Behauptung eines Dänen nachvollziehen,

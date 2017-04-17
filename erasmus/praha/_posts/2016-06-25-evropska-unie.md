@@ -25,7 +25,7 @@ der in kurzer Abfolge die europäischen Städte aufzählt, in denen sich Kinos
 befinden, und es macht mir Spaß, in der Animation die Städte zu finden,
 in denen ich schon gewesen bin.
 Meine eigene berufliche Zukunft könnte davon abhängen, ob mein Betreuer
-in Innsbruck eine Förderung des ERC^[European Research Council] erhalten wird.
+in Innsbruck eine Förderung des ERC (European Research Council) erhalten wird.
 Und nicht zuletzt ist meine Freundin Französin.
 
 All das führt dazu, dass ich die Idee der europäischen Union unterstütze
