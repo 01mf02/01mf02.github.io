@@ -21,8 +21,8 @@ Hier befinden sich die Artikel aus jener Zeit.
 </ul>
 
 
-Praha
------
+Bordeaux
+--------
 
 <img src="/media/michaelfaerber2012.jpg" style="float: right; margin: 10px;" />
 
