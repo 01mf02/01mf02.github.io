@@ -4,7 +4,7 @@ title: Antonín Dvořák -- Napadly písně
 
 Hier befinden sich Hilfestellungen zur Aussprache des Lieds
 ["Napadly písně" von Dvořák](
-http://imslp.org/wiki/V_P%C5%99%C3%ADrod%C4%9B%2C_Op.63_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn))).
+http://imslp.org/wiki/V_P%C5%99%C3%ADrod%C4%9B%2C_Op.63_(Dvo%C5%99%C3%A1k%2C_Anton%C3%ADn)).
 Danke an Klára Pawliková und Jan Pawlik!
 
 {% include audio.html media="napadly-pisne.flac" %}
