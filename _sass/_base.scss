@@ -123,6 +123,19 @@ blockquote {
 }
 
 
+/**
+ * Definition lists (added by MF)
+ */
+dl {
+    > dt {
+        font-weight: bold;
+    }
+    > dd {
+        margin-left: $spacing-unit;
+    }
+}
+
+
 
 /**
  * Code formatting
