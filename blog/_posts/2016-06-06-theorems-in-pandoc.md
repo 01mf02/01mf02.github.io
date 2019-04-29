@@ -2,6 +2,11 @@
 title: Theorems in Pandoc
 ---
 
+**Update 29.4.2019**:
+This article has been made obsolete by a [follow-up article](/blog/scientific-pandoc).
+In particular, that article presents a method to write LaTeX environments
+(such as theorems/proofs) that contain several paragraphs.
+
 When writing mathematical Markdown documents, definitions, lemmas and proofs
 can add considerably noise to the document. For example:
 
