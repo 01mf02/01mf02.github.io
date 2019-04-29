@@ -52,6 +52,10 @@ Markdown allows me to spend
 more time writing actual content and
 less time remembering to close tags.
 
+My workflow is to write an article in Markdown,
+then to convert it to LaTeX via Pandoc, and
+then to create a PDF via `pdflatex`.
+
 Some LaTeX functionality I frequently use is not provided by Markdown.
 For example, in my articles, I often need to reference parts of the article
 like as follows:
@@ -111,7 +115,7 @@ Therefore my filter can safely redefine its output to yield
 I often need to write definitions and theorems in my articles.
 In LaTeX, I write something along the lines of:
 
-~~~
+~~~ latex
 \begin{definition}[Natural number]\label{def:nat}
 A natural number is either zero, or the successor of a natural number.
 \end{definition}
@@ -119,7 +123,7 @@ A natural number is either zero, or the successor of a natural number.
 
 I created a filter that lets you write an equivalent of the above in Markdown:
 
-~~~
+~~~ markdown
 Definition def:nat (Natural number)
 : A natural number is either zero, or the successor of a natural number.
 ~~~
