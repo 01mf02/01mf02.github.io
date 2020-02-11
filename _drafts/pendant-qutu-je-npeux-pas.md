@@ -28,7 +28,7 @@ Profitez bien des paroles absurdes !
 >   
 > Juste parce que je ne trouve pas drôle l'hiver,  
 > tu m'as posé un couteau dans le lit.  
-> Mille milles de roses  
+> Cent mètres de roses  
 > t'ai-je donné pour la fête des Mères.  
 > Tous mes rêves se sont déjà déroulés.  
 > Quand le soleil décline je chante au jardin :  
