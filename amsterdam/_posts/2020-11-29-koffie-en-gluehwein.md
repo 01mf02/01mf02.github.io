@@ -13,6 +13,11 @@ was anscheinend für einige Kontroversen sorgte,
 da zuvor einheitlich Rosa verwendet wurde.
 (Außer bei der Geburt von Mitgliedern der niederländischen Königsfamilie Oranje,
 wofür Orange seit den 1930er-Jahren üblich ist.)
+Ein weiteres niederländisches Unikum ist der sogenannte [Hagelslag] ("Hagelschlag"),
+der am besten als Schokoladestreusel bezeichnet werden könnte
+(auch wenn mich die Niederländer für diese approximative Bezeichnung kritisiert haben)
+und auf einem mit Margarine bestrichenen Brot schon eine Mittagsmahlzeit darstellt.
+Auf das Brot kommt hier auch häufig "pindakaas" (Erdnussbutter).
 Was die Ausländer unserer Arbeitsgruppe an der niederländischen Küche am meisten schätzen,
 sind die [Bitterballen], wobei es sich um panierte Fleischkroketten handelt.
 
@@ -130,6 +135,7 @@ Allen Verwandten, Freunden und Bekannten wünsche ich eine schöne neue Woche
 und bis bald!
 
 [Beschuit met muisjes]: https://nl.wikipedia.org/wiki/Beschuit_met_muisjes
+[Hagelslag]: https://de.wikipedia.org/wiki/Hagelslag
 [Bitterballen]: https://de.wikipedia.org/wiki/Bitterballen
 [Sint-Urbanuskerk]: https://nl.wikipedia.org/wiki/Sint-Urbanuskerk_(Nes_aan_de_Amstel)
 [Abcoude]: https://de.wikipedia.org/wiki/Abcoude
