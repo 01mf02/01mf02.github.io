@@ -79,6 +79,14 @@ main = getContents >>= return . process >>= mapM putStrLn
 ~~~
 
 Compile it with `ghc integrate.hs`, yielding an executable "integrate".
+
+(**EDIT 2021-03-01**: Instead of using Haskell here,
+a slightly more low-tech solution is to just pipe through
+`sort -n | awk '{print $0 " " NR}'`.
+In the awk script,
+`$0` refers to the current line, and
+`NR` refers to the current line number.)
+
 Now you can use `gnuplot` to see the final result:
 
 ~~~
