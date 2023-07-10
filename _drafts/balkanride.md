@@ -50,10 +50,12 @@ und einen Matratzenüberzug fand ich leider nicht, weshalb ich mich ein bisschen
 [Skutarisee]: https://de.wikipedia.org/wiki/Skutarisee
 [Eco-social Farm]: https://www.ecosocialfarm.com
 
+# Eco-social Farm
+
 Am nächsten Tag beschloss ich, noch eine zweite Nacht auf dem Campingplatz zu bleiben.
 Beim Frühstück erfuhr ich, dass eine Radfahrerin namens Pauline sehr große Schmerzen in der Halsgegend hatte und infolgedessen ihren
 Kopf kaum mehr drehen konnte.
-Der Besitzer des Campingplatzes organisierte für sie einen Transport nach Shkodër zu einem Arzt seines Vertrauens,
+Der Besitzer des Campingplatzes organisierte für sie einen Transport nach [Shkodër] zu einem Arzt seines Vertrauens,
 der jedoch nur Albanisch und Italienisch sprach. Ich bot mich als Dolmetscher Französisch-Italienisch an.
 Und so fuhr ich mit Pauline mit. Eine albanische Physiotherapeutin, die ebenfalls sehr gut Italienisch sprach,
 fuhr uns nach Shkodër und wartete mit uns in der kleinen Privatklinik auf den Arzt.
@@ -77,7 +79,10 @@ In der Nacht teilte ich mein Zimmer mit Pauline, der der Campingplatzbesitzer em
 aufgrund ihrer Nackenschmerzen ausnahmsweise einmal nicht auf der Isomatte, sondern auf einer ordentlichen Matratze zu schlafen.
 Nachdem ich mittlerweile auch ordentliches Bettzeug gefunden hatte, schlief ich diese Nacht deutlich besser.
 
+[Shkodër]: https://de.wikipedia.org/wiki/Shkodra
 [Samosa]: https://de.wikipedia.org/wiki/Samosa
+
+# Shkodër -- Rubik
 
 Am nächsten Tag wollte ich von dem Campingplatz abfahren.
 Luc und Pablo blieben noch länger, da sich Luc noch nicht so fit fühlte.
@@ -124,6 +129,8 @@ die sehr viele Projekte in Albanien unterstützt hat und dafür sogar für den F
 
 [Marianne Graf]: https://de.wikipedia.org/wiki/Marianne_Graf
 
+# Rubik
+
 Am nächsten Tag beim Frühstück habe ich mit dem Hotelbesitzer geredet.
 Dabei sind wir auf die “Albania-Austria Partnerschaft” zu sprechen gekommen, und er erzählte mir,
 dass das Hotel tatsächlich auch im Rahmen dieser Partnerschaft erbaut worden ist,
@@ -131,6 +138,7 @@ und dass der Mann von Marianne Graf gerade beim Frühstück sitzt.
 Ich habe mich zu ihm hinzugesetzt, und nach kurzer Zeit kam auch Marianne Graf selbst.
 Sie erzählte mir, dass es an dem Tag ein Bergfest in der Nähe gäbe, zu dem ich auch gerne kommen könnte,
 und dass sich danach noch ein Besuch in einem Museum in Rubik namens “InfoKulla” anböte, welches die Geschichte der Mirdita und Albaniens erklärt.
+Daraufhin beschloss ich, meinen Aufenthalt in dem Hotel um eine Nacht zu verlängern.
 Ich bin dann mit dem Fahrrad zu dem Berg hochgefahren; das heißt, ich habe es versucht,
 denn war die Straße schon zu Beginn relativ steinig, ist sie ab einem gewissen Punkt so steil und (in Ermangelung eines besseren Wortes) “löchrig” geworden,
 dass ein weiteres Fortkommen ohne ein solides Mountainbike vollkommen ausgeschlossen war. So begann ich zu schieben.
@@ -174,3 +182,120 @@ Weiters erklärte er mir, welche Teile von Ländern seiner Meinung nach Teil von
 “Podgorica & Bar (Montenegro)? Albanie. Kosovo? Albanie. North Macedonia? Albanie. Ioannina (Greece)? Albanie.”
 Ich erfuhr, dass Österreich und Ungarn in Albanien einen guten Ruf haben, weil die österreichisch-ungarische Monarchie 1912 die Unabhängigkeit Albaniens unterstützt hat.
 
+# [Rubik -- Bulqize](https://graphhopper.com/maps/?point=41.762878%2C19.755688&point=41.767632%2C19.782483&point=41.769563%2C19.873092&point=41.764889%2C19.883435&point=41.749672%2C19.92882&point=41.575282%2C20.040729&point=41.522138%2C20.085876&point=41.49084%2C20.200663&point=41.503949%2C20.228826&point=41.507149%2C20.246528&point=41.515175%2C20.281994&point=41.527949%2C20.298445&profile=bike&layer=OpenStreetMap) (90km, 2400m↗)
+
+Am nächsten Tag habe ich Frau Graf und ihren Mann beim Frühstück nicht mehr getroffen und bin dann Richtung [Rrëshen] losgefahren.
+Dabei bin ich ein kleines Stückchen auf der Autobahn gefahren, was in Albanien allerdings kein großes Problem darstellt,
+weil die Autobahn dort mehr einer Bundesstraße ähnelt, dort relativ wenig Verkehr unterwegs und ein großer Seitenstreifen vorhanden ist.
+Ich habe auch gehört, dass auf der Autobahn Richtung Tirana sogar Händler und Fußgänger unterwegs sind, wollte aber trotzdem nicht versuchen, dort zu fahren.
+Der Weg nach Rrëshen war relativ unspektakulär, wobei mir allerdings ein paar Dinge generell über den albanischen Verkehr aufgefallen sind.
+
+1. Albanier sind so gut wie niemals alleine im Auto.
+2. Es gibt sehr, sehr viele Tankstellen überall, von denen auch viele aufgelassen sind.
+   Generell sieht man viele aufgelassene Geschäfte am Straßenrand.
+3. Als Radfahrer wird man sehr oft durch Hupen begrüßt, was ich am Anfang für aggressives Verhalten gehalten habe, aber gegen Ende hin schätzen gelernt habe.
+   (Es ist mir dann in Mazedonien und Griechenland richtig abgegangen.)
+
+In Rrëshen habe ich mir kurz die Kathedrale angeschaut und bin dann weitergefahren Richtung Burrel.
+Die Landschaft wandelte sich dabei sehr stark und erinnerte mich immer stärker an Tirol: Es gab grüne Wiesen, Kühe, hohe Berge am Horizont, und natürlich viele Höhenmeter,
+sodass ich mich ein bisschen wie zu Hause fühlte.
+Anders als in Tirol war jedoch der Zustand der Straße, die zwar sehr breit war,
+allerdings im regelmäßigen Abstand immer wieder kraterartige Vertiefungen aufwies,
+um die auch die Autos herum im Schritttempo herumfuhren,
+sodass ich auch bei Abfahrten immer wieder abbremsen musste und mir meinen Weg durch die Krater suchen musste.
+Die Flora und Fauna war außergewöhnlich üppig; an einem Punkt war eine ganze Wolken von Schmetterlingen auf der Straße.
+Ich zögerte, die Stadt Burrel zu besichtigen; nachdem sie allerdings auf einem Hügel lag (noch mehr Höhenmeter!) und mir von der Karte her nicht besonders zusagte,
+ließ ich sie links liegen.
+Nachdem ein Gewitter aufzog, beschloss ich, zu Mittag auf dem Campingplatz "Alla Chiesa" (weil er direkt an einer Kirche liegt) in Suç Pause zu machen, wo ich überdacht meine Jause einnahm.
+Dort traf ich einen Niederländer, der laut seiner Erzählung schon seit vielen Jahren in Albanien Urlaub macht und mir gleich ein Bier anbot.
+Nach meiner Jause besichtigte ich noch die kleine Kirche und traf dann einen Einheimischen, mit dem ich sehr lange quatschte.
+Er war sehr glücklich, als er erfuhr, dass ich so wie er Elektrotechnik studiert hatte, und lud und mich dann gleich auf einen Kaffee ein.
+Danach traf ich noch die Schwestern, die den Campingplatz betrieben, und stellte fest, dass es sich um Italienerinnen handelte.
+Es sollten nicht die einzigen italienischen Geistlichen bleiben die ich in Albanien kennenlernte -- dasselbe wiederholte sich später in [Korça](#korca).
+Inzwischen war das Gewitter vorbei, und ich fuhr weiter Richtung Klos.
+Dort bliebe ich bei einem Obsthändler stehen, der mir riesige und saftige Tomaten, Karotten sowie einige Früchte verkaufte, und das alles für kaum zwei Euro. Alles war so gut.
+Nach Klos begann dann ein sehr langer und teilweise auch steiler Anstieg auf einer so gut wie nicht befahrenen Straße,
+weshalb ich mir einmal wieder seit längerem Musik gönnte.
+Ich hörte das Album "Famous Last Words" von Supertramp,
+und schon beim ersten Stück ("Crazy") kam mir eine Unzahl von Erinnerungen an Menschen, an die ich lange nicht mehr gedacht oder die ich lange nicht mehr gesehen hatte,
+und ich fühlte eine unglaublich große Liebe und Dankbarkeit für all diese Menschen.
+Die Landschaft war auch traumhaft schön, und ich fühlte mich einfach nur glücklich.
+Am Ende kam dann noch eine sehr spektakuläre Abfahrt in das vom Bergbau geprägte Dorf [Bulqizë], von wo es nicht mehr weit zu meiner Unterkunft war.
+Diese lag allerdings noch auf einem Hügel mit einer sehr heftigen Steigung ganz gegen Ende hin, sodass dieser Tag wirklich sehr herausfordernd endete.
+Die Unterkunft übertraf allerdings alle meine Erwartungen, denn sie war in einer Jahrhunderte alten, traditionellen "Kulla" gelegen,
+die der Besitzer sehr liebevoll renoviert und in einen Agriturismo umgewandelt hatte.
+Vor dem Haus traf ich auch gleich einen anderen Radfahrer, nämlich einen Polen namens Jakob.
+Beim Abendessen traf ich auch eine deutsches Paar aus der Gegend von Rosenheim,
+das mit ihrem jugendlichen Sohn mit dem Mountainbike in Albanien unterwegs war.
+Wir genossen ein sehr, sehr gutes und üppiges albanisches Abendessen, zu dem auch Jakob hinzustieß, und unterhielten uns bis spät in die Nacht.
+
+Jakob erzählte, dass er von Polen losgefahren sei und bis auf uns so gut wie keine Radfahrer getroffen hätte.
+Zu Beginn wusste er noch nicht einmal, ob er überhaupt die Tour schaffen würde,
+nachdem er zuvor unter starken Rückenschmerzen gelitten hatte, die allerdings während der Tour vollkommen verschwunden waren.
+Er war quer durch Ungarn und Serbien gefahren, wobei er die größte Gastfreundschaft in Serbien zu spüren bekommen hatte,
+wo er ständig auf Raki teilweise in größeren Quantitäten eingeladen wurde.
+Die Serben hegten allerdings große Vorurteile gegen die Albaner;
+so warnten sie ihn davor, dass er sogar von den Frauen in Albanien vergewaltigt werden würde.
+Als gefährlicher stellten sich allerdings die wilden Tiere beim Camping in der freien Natur heraus;
+so war er einmal versehentlich in das Revier eines Bibers eingedrungen, der sich in der Nacht durch stundenlanges lautes Zischen bemerkbar machte,
+wodurch er ziemliche Angst bekam und seinen Kollegen im Zelt neben ihm von Zeit zu Zeit fragte, ob bei ihm noch alles in Ordnung sei. 
+Die Deutschen diskutierten mit Jakob unter anderem auch die besten Zelte,
+wobei sie sich einig waren, dass die Zelte der Firma [Naturehike](https://www.naturehike.com/) aus ihrer Sicht unter den besten Zelten einzuordnen seien.
+Dabei verspürte ich wieder das selbe Gefühl wie beim Campingplatz in Shkodër,
+nämlich dass ich durch meinen Verzicht auf ein Zelt doch einiges beim Radfahren versäumte.
+Ich beschloss, bei einer zukünftigen Radtour das Zelten einmal auszuprobieren.
+
+[Rrëshen]: https://de.wikipedia.org/wiki/Rr%C3%ABshen
+[Korça]: https://de.wikipedia.org/wiki/Kor%C3%A7a
+[Bulqizë]: https://de.wikipedia.org/wiki/Bulqiza
+
+# [Bulqizë -- Ohrid](https://graphhopper.com/maps/?point=41.527943%2C20.298448&point=41.516046%2C20.335854&point=41.511787%2C20.371631&point=41.524433%2C20.426169&point=41.526328%2C20.428465&point=41.534356%2C20.432572&point=41.548654%2C20.443486&point=41.573854%2C20.474074&point=41.579542%2C20.481852&point=41.523794%2C20.527295&point=41.330701%2C20.637326&point=41.177817%2C20.678679&point=41.120108%2C20.78669&profile=bike&layer=OpenStreetMap) (97km, 1900m↗)
+
+Am nächsten Tag wachte ich leider schon recht früh auf durch die Morgensonne.
+Ich genoss wieder ein sehr opulentes albanisches Frühstück mit den Deutschen und Jakob,
+wobei Jakob und ich beschlossen, ein Stück des Weges gemeinsam zu fahren.
+Vor der Abfahrt sprach der Besitzer der Unterkunft noch mit uns und wollte wissen,
+was uns an seinem Haus gut gefallen hat bzw. wie er es weiterentwickeln könnte, auch was die Preisgestaltung betraf.
+Er war uns sehr dankbar für unsere Anregungen und lud uns noch auf einen Raki ein.
+Jakob und ich fuhren dann in der schon recht brütenden Sonne los Richtung Mazedonien, wobei sich herausstellte,
+dass Jakob um einiges schneller fuhr als ich, obwohl er deutlich stärker beladen war (Zelt!).
+
+Der Grenzübergang nach Nordmazedonien war relativ unspektakulär, bedeutete aber für mich insofern ein Novum,
+als es mein erstes Mal in einem Land mit kyrillischen Schriftzeichen handelte.
+Diese Schrift hatte ich allerdings schon intensiv gelernt seit Beginn des Ukraine-Kriegs,
+als ukrainische Ortsnamen die Berichterstattung dominierten und mich zur Recherche auf der Karte veranlassten.
+Unser erster Halt war Debar, wo wir nach guter ex-jugoslawischer Tradition Cevapcici aßen.
+Die Bedienung im Restaurant schien auch albanisch zu sprechen, und generell fühlte ich mich noch nicht so sehr anders als in Albanien,
+außer, dass mir die Leute distanzierter vorkamen und weniger zu lächeln schienen.
+Auch das Hupen zur Begrüßung hörte auf.
+So freute ich mich immer, wenn ich ein Auto mit albanischen Kennzeichen sah.
+
+Nach Debar kamen wir zu einem großen Stausee, ab dem Jakob vorausfuhr und ich ihn lange nicht mehr zu Gesicht bekam,
+besonders weil auch einige Steigungen auf dem Weg waren.
+Es begann dann auch sehr stark zu regnen, worauf ich bei Hitze und Nässe mit Regenkleidung bergauf fahren musste.
+Die Fahrt ging dann relativ langweilig an einem Fluss weiter, und ich traf Jakob erst wieder einige Stunden später bei einem Kaffeehaus,
+wo ich dann auch meine Unterkunft in Ohrid buchte.
+Wir fuhren noch zusammen bis nach Struga, wobei ich immer größere Schwierigkeiten hatte, weiter zu kommen,
+da mir mein Hintern weh tat und die Straße sehr stark befahren und außerdem ziemlich langweilig war.
+In Struga wollte Jakob noch einmal mit mir essen gehen, aber ich hatte einen Anflug von Bauchschmerzen und
+wollte möglichst schnell zu meiner Unterkunft nach Ohrid weiterfahren.
+In Struga wurde ich auch zum ersten Mal angebettelt, nämlich von einem Jungen, das mir relativ direkt "give me money" sagte.
+Daraufhin antwortete ich "no, you give me money", worauf mir der Junge wider Erwarten tatsächlich ein paar Münzen gab,
+die ich ihm allerdings gleich darauf wieder zurückgab. (Dasselbe Spiel wiederholte sich ein paar Mal, bis er genug hatte und abzog.)
+Jedenfalls war ich sehr froh darüber, Struga wieder zu verlassen, und verabschiedete mich von Jakob.
+In den Abendstunden fuhr ich den Ohrid-See entlang, aber der See lud mich überhaupt nicht zum Schwimmen ein,
+und ich fühlte mich immer schlechter im Bauch.
+Als ich nach einiger Sucherei in Ohrid endlich meine Unterkunft gefunden hatte,
+war mein Zustand schon ziemlich kritisch, und ich musste mich kurz nach meiner Ankunft im Hotel mehrfach übergeben.
+Der Übeltäter war schnell gefunden: das Cevapcici in Debar!
+(Später habe ich erfahren, dass anscheinend oftmals nicht das Fleisch, sondern altes Frittierfett für solche Magenverstimmungen zuständig sei.)
+Der Besitzer der Unterkunft war jedenfalls sehr nett und gab mir alle möglichen Dinge,
+unter anderem Kamillentee, einen anderen Polster, einen Wasserkocher etc.
+
+# Ohrid
+
+Am Tag darauf blieb ich mit Fieber in meiner Unterkunft und aß kaum etwas.
+Am Tag darauf hatte ich dafür ein interessantes Gespräch mit dem Besitzer meiner Unterkunft,
+der mir erzählte, dass er ein albanischsprachiger Mazedonier sei und als Albanier in Übereinstimmung mit den Regeln des Kanun alles dafür tun müsse, seinen Gast zu schützen.
+Weiters erzählte er mir ein bisschen über die Konflikte zwischen Albanien und Mazedonien bzw. Kosovo,
+und mir wird in Erinnerung bleiben, wie er eine meiner Fragen nach dem "Warum" erklärte mit diesem einen Wort: "Balkan".
