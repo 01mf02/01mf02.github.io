@@ -294,8 +294,75 @@ unter anderem Kamillentee, einen anderen Polster, einen Wasserkocher etc.
 
 # Ohrid
 
-Am Tag darauf blieb ich mit Fieber in meiner Unterkunft und aß kaum etwas.
-Am Tag darauf hatte ich dafür ein interessantes Gespräch mit dem Besitzer meiner Unterkunft,
-der mir erzählte, dass er ein albanischsprachiger Mazedonier sei und als Albanier in Übereinstimmung mit den Regeln des Kanun alles dafür tun müsse, seinen Gast zu schützen.
+Nach einer fiebrigen Nacht blieb ich einen ganzen Tag in meiner Unterkunft, schlief die meiste Zeit und aß kaum etwas.
+
+Am nächsten Tag fühlte ich mich wieder soweit einsatzfähig, dass ich die Stadt [Ohrid] besichtigen wollte.
+Mein erstes Ziel war, ein Café und evtl. eine Bäckerei zu finden.
+In der Bäckerei in der Nähe meiner Unterkunft brauchte ich nur einen kurzen Blick zu werfen,
+um zu sehen, dass ich dieses Brot nicht essen konnte --- alles komplett langweiliges Weißbrot.
+So fuhr ich mit dem Rad in die Stadt.
+Mein erster Eindruck in der Fußgängerzone: überall Döner und Cevapcici --- ein Alptraum direkt nach meiner Magenvergiftung, nach der ich überhaupt kein Fett sehen konnte.
+Weiters fielen mir die zahlreichen türkischen Geschäfte auf (was mir auf der Reise bisher so noch nicht untergekommen war), flankiert von einem sehr schönen Minarett.
+An vielen Stellen sah ich Angebote auf Niederländisch für Touristen, wie z.B einen Fahrradverleih oder Angebote für Fahrten auf dem See.
+Am Ufer des Ohridsees, wo ich einige Zeit verweilte, hörte ich dann auch einige niederländische Touristen.
+Nachdem ich ein bisschen durch die Altstadt geschlendert war, fand ich schlussendlich ein Café.
+In diesem wurde mir erlaubt, mein mitgebrachtes Brot essen zu dürfen, doch musste ich dazu im Freien sitzen.
+Mein Kaffee wurde mit einer in etwa gleich großen Menge gesüßten (!) Schlagobers serviert,
+wobei sich mein Magen ob der Fettmenge vorauseilend in Qualen krümmte.
+Bilanz: der schlechteste Kaffee der ganzen Reise, direkt nach dem schlechtesten Cevapcici.
+Es wurde klar, dass Nordmazedonien bei mir keinen Preis für das beste kulinarische Erlebnis gewinnen würde.
+Nach dem Kaffee ging ich weiter daran, einen Bankomaten zu finden, der keine Abhebegebühren verlangte,
+was mir nach ca. einer halben Stunde nach dem Durchprobieren etlicher Bankomaten schlussendlich gelang.
+Als nächstes erkundigte ich das historische Zentrum etwas eingehender.
+Dies gestaltete sich als einfach; ich konnte einfach den Touristenmassen folgen,
+die sich mittlerweile in größerer Zahl eingestellt hatten und einem langen Wurm gleich den Hügel erklommen.
+Der Wurm wälzte sich auf die [Klimentskirche] zu, die allerdings so voller Touristen war, dass ich eine Besichtigung gar nicht erst versuchte.
+Die Kirche war aber tatsächlich auch von außen sehr schön aufgrund ihrer Wand aus vielen dünnen übereinandergeschichteten Steinen.
+Im Laufe des Tages sollte ich noch mehrere solche Kirchen in der ganzen Stadt sehen.
+Da ich mich noch ziemlich schwach fühlte, legte ich eine längere Pause in einem Park neben der Kirche ein,
+wo ich eine Gruppe von jungen Mädchen beobachtete, die sich beim Tanzen und Singen zu einem Musikstück aufnahmen.
+Noch heute klingt dieses Musikstück in mir nach.
+Als nächstes sah ich kurz das antike Theater, bevor ich beim oberen Stadttor in eine riesige Schülergruppe geriet,
+dann ging ich wieder nach unten und besichtigte die Kirche zur heiligen Sofia.
+
+Die anschließende Suche nach einem Supermarkt gestaltete sich als schwierig,
+nachdem der erste Supermarkt (ähnlich wie in Albanien) trotz einer gewissen Größe keine Früchte oder Gemüse anbot.
+Ich hatte selten das Gefühl, in einem Land in so vielen Geschäften kein einziges Nahrungsmittel zu finden, das ich auch essen wollte.
+Schlussendlich fand ich dennoch einen anderen Supermarkt, der diesen Namen auch verdiente,
+und deckte mich für meine restliche Zeit in Nordmazedonien ein.
+Ich konnte mich des Gefühls nicht erwehren, dass ich meinen Aufenthalt in Nordmazedonien so sehr wie möglich verkürzen müsste,
+bevor ich aufgrund mangelhafter Ernährung nicht mehr aus eigener Kraft das Land verlassen könnte.
+
+Nach einer kleinen Siesta in meiner Unterkunft wanderte ich in die Stadt über einen Weg am See,
+wozu ich einen kleinen Hügel erklimmen musste.
+Von dort aus konnte man gut einen seltsamen Film an der Wasseroberfläche des Sees erkennen,
+der bei mir jegliche Lust am Baden von vornherein im Keim erstickte.
+Am Hügel traf ich auf ein Paar aus England, mit dem ich mich eine Zeit lang unterhielt.
+Sie beklagten sich über den Brexit und die daraus resultierenden neuen Bestimmungen,
+die ihnen den Aufenthalt in der Schengenzone nur noch während der Hälfte des Jahres erlaubte,
+weshalb sie sich gezwungen sahen, nun mehr Urlaub außerhalb dieser Zone zu machen.
+Es gefiele ihnen in Großbritannien besonders seit dem Brexit nämlich so schlecht,
+dass sie mehr oder weniger nur nach Hause fuhren, um ihre Koffer abzuladen und dann gleich wieder wegzufahren.
+Sie berichteten, dass sich die Menschen in Großbritannien große Illusionen wegen des Brexits gemacht hätten
+und nun über dessen Auswirkungen sehr desillusioniert seien.
+Nach diesem kleinen Ratscher kam ich zur kleinen, idyllisch am See gelegenen Kirche des Heiligen Johannes von Kaneo,
+vor dem schon eine große Menge von Asiaten posierte.
+Als nächstes gelangte ich zu der Ausgrabungsstätte Plaošnik, auf der ich das Kloster zum Heiligen Kliment und Panteleon besuchte.
+Im Kloster beobachtete ich ein paar Gläubige, die mit Hingabe ein Grab küssten und sich dann relativ entspannt miteinander direkt davor unterhielten.
+Die Ausgrabungsstätte selbst war enttäuschend, nachdem überhaupt keine Informationstafeln vorhanden waren, nur jede Menge Ruinen.
+Das einzige, was sich mir als unbedarftem Besucher erschloss, war ein ausgegrabenes Bodenmosaik, das ziemlich alt aussah.
+Zuletzt ging ich zur [Festung Ohrid], die allerdings schon geschlossen war,
+und beobachtete einige Touristen, die sich wie ich erkundigten, ob die Festung noch geöffnet sei.
+Dann ging ich wieder über den Hügel zurück zu meiner Unterkunft, wo ich noch ein bisschen mit dem Besitzer quatschte.
+Er erzählte mir, dass er ein albanischsprachiger Mazedonier sei und als Albanier in Übereinstimmung mit den Regeln des Kanun alles dafür tun müsse, seinen Gast zu schützen.
 Weiters erzählte er mir ein bisschen über die Konflikte zwischen Albanien und Mazedonien bzw. Kosovo,
 und mir wird in Erinnerung bleiben, wie er eine meiner Fragen nach dem "Warum" erklärte mit diesem einen Wort: "Balkan".
+
+[Ohrid]: https://de.wikipedia.org/wiki/Ohrid
+[Klimentskirche]: https://de.wikipedia.org/wiki/Ohrid#Klimentskirche_(Sveti_Kliment)
+[Festung Ohrid]: https://de.wikipedia.org/wiki/Festung_Ohrid
+
+# [Ohrid - Korçë](https://graphhopper.com/maps/?point=41.120125%2C20.786678&point=40.900462%2C20.695822&point=40.854079%2C20.704545&point=40.834275%2C20.73152&point=40.796095%2C20.719089&point=40.786356%2C20.716341&point=40.78329%2C20.716255&point=40.767704%2C20.718153&point=40.753057%2C20.71976&point=40.747219%2C20.718972&point=40.736688%2C20.713382&point=40.726021%2C20.710332&point=40.692945%2C20.72275&point=40.686591%2C20.726812&point=40.679214%2C20.730219&point=40.672639%2C20.732564&point=40.665455%2C20.736154&point=40.663173%2C20.737749&point=40.649744%2C20.75033&point=40.615662%2C20.781576&profile=bike&layer=OpenStreetMap) (76km, 1200m↗)
+
+[Kloster Sveti Naum]: https://de.wikipedia.org/wiki/Kloster_Sveti_Naum
+[Korçë]: https://de.wikipedia.org/wiki/Kor%C3%A7a
