@@ -82,7 +82,7 @@ Nachdem ich mittlerweile auch ordentliches Bettzeug gefunden hatte, schlief ich 
 [Shkodër]: https://de.wikipedia.org/wiki/Shkodra
 [Samosa]: https://de.wikipedia.org/wiki/Samosa
 
-# Shkodër -- Rubik
+# [Shkodër -- Rubik](https://graphhopper.com/maps/?point=42.025267%2C19.46119&point=41.973061%2C19.542599&point=41.689221%2C19.70141&point=41.698106%2C19.713469&point=41.762882%2C19.755692&profile=bike&layer=OpenStreetMap) (72km, 1000m↗)
 
 Am nächsten Tag wollte ich von dem Campingplatz abfahren.
 Luc und Pablo blieben noch länger, da sich Luc noch nicht so fit fühlte.
