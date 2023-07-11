@@ -364,5 +364,88 @@ und mir wird in Erinnerung bleiben, wie er eine meiner Fragen nach dem "Warum" e
 
 # [Ohrid - Korçë](https://graphhopper.com/maps/?point=41.120125%2C20.786678&point=40.900462%2C20.695822&point=40.854079%2C20.704545&point=40.834275%2C20.73152&point=40.796095%2C20.719089&point=40.786356%2C20.716341&point=40.78329%2C20.716255&point=40.767704%2C20.718153&point=40.753057%2C20.71976&point=40.747219%2C20.718972&point=40.736688%2C20.713382&point=40.726021%2C20.710332&point=40.692945%2C20.72275&point=40.686591%2C20.726812&point=40.679214%2C20.730219&point=40.672639%2C20.732564&point=40.665455%2C20.736154&point=40.663173%2C20.737749&point=40.649744%2C20.75033&point=40.615662%2C20.781576&profile=bike&layer=OpenStreetMap) (76km, 1200m↗)
 
+Von Ohrid aus fuhr ich den Ohridsee entlang Richtung Albanien.
+In Ohrid waren die Existenz von Radwegen bemerkenswert, diese hörten allerdings beim Stadtende abrupt auf und gingen in eine normale Bundesstraße über.
+Die Strecke am See entlang war relativ unspektakulär, dafür allerdings sehr hügelig.
+Wenn man sich dem See nähert, hört man laute Tiergeräusche, die ich für Frösche halte.
+Die Straße weicht an einem gewissen Punkt relativ weit vom See ab und steigt steil an,
+um dann erst wieder nahe der albanischen Grenze auf den See zu stoßen.
+Dort befindet sich auch das [Kloster Sveti Naum], das ich aber nicht besucht habe,
+da ich ja Nordmazedonien so schnell wie möglich hinter mir lassen wollte.
+An der albanischen Grenze angekommen machte mein Herz auf jeden Fall ein paar Freudensprünge;
+ich freute mich wirklich sehr, wieder in das Land der Skipetaren einzutauchen.
+Selbst die albanischen Grenzbeamten schienen mir zu lächeln, als ich ihnen mein “[mirëdita]” entgegenjubelte.
+In Albanien begann die Straße als ziemliche Schotterpiste, denn sie wurde gerade erneuert,
+aber das machte mir trotzdem nichts, denn die Leute lächelten mir wieder zu.
+Nach kurzer Fahrt am See sah ich einen Campingplatz mit einem integrierten Restaurant,
+und da er sich günstig direkt vor der Abzweigung einer Straße Richtung Korçë befand, ging ich dorthin.
+Ich bestellte mir eine Ohridforelle; eine autochthone Art des Ohridsees,
+die anscheinend nur in Albanien, nicht aber in Nordmazedonien gefischt werden darf.
+
+Im Restaurant waren ein deutscher Radfahrer namens Alex, der mit einem Albaner Deutsch sprach, und ich setzte mich zu ihnen.
+(In Albanien hat Deutschland übrigens einen sehr guten Ruf;
+man sieht z.B viele Deutsch klingende Geschäftenamen wie [Baumarket] oder [Deutschcolor].
+Auch haben viele Albaner zumindest zeitweise in Deutschland gearbeitet.)
+Alex war in Kärnten losgefahren und war in wenig mehr als einer Woche fast die ganze Strecke bis dahin mit dem Rad gefahren,
+mit Ausnahme einer kleinen Strecke mit dem Zug von Zagreb nach Split.
+(Dasselbe hatte Pauline übrigens ein paar Wochen vorher auch versucht,
+wurde aber von der Schaffnerin abgewiesen mit dem Hinweis darauf,
+dass der Zug keine Fahrräder mitnähme, obwohl er bei weitem nicht voll war.
+Alex stieg einfach bei einem kurzen Aufenthalt des Zuges ein,
+und als ihn die Schaffnerin ansprach, war der Zug schon losgefahren.
+Er redete ihr gut zu und bestellte einen Kaffee bei ihr,
+bis sie sich schlussendlich beruhigte und ihn als auch sein Fahrrad im Zug akzeptierte.)
+Alex war ein halber Grieche.
+Sein sehr straffer Reisezeitplan war auch unter anderem der Tatsache geschuldet,
+dass er Familie hatte, aber trotzdem unbedingt einmal mit dem Fahrrad nach Griechenland fahren wollte.
+Er empfahl mir unter anderem einen Besuch der [Vikos-Schlucht] sowie
+des Campingplatzes “[Elena's Beach]” in der Nähe von Igoumenitsa, bei dem er schon mehrmals (inklusive seiner Flitterwochen) geblieben ist und
+wo ich liebe Grüße von ihm ausrichten sollte. Leider sollte es dazu allerdings nicht kommen ...
+
+Nach der ausgezeichneten Ohridforelle und einer [Birra Korça], das mich auf den Aufenthalt an meinem Tagesziel einstimmen sollte, ging es dann weiter.
+Zuerst wieder einen ordentlichen Hügel hinauf auf einer vielbefahrenen Straße
+(die Albanier fahren übrigens oftmals Autos, die dichte Abgaswolken ausstoßen ... “Balkan”),
+aber das machte mir trotzdem nichts, denn das Panorama war so viel schöner als in Nordmazedonien.
+Ich weiß nicht genau, was es ausmacht, aber es ist ein Unterschied, den man sofort spürt;
+die ganze Landschaft ist einfach viel interessanter und malerischer.
+Ab einem gewissen Punkt sah ich zwei ca. zehnjährige Jungen auf ihren Fahrrädern an der Straße entlangfahren --- natürlich unbeaufsichtigt.
+Zuerst überholte ich sie, dann sie mich, dann wieder ich sie, und so ging das einige Male hin und her,
+bis sie schlussendlich stehen blieben, sich ein Herz fassten und mir auf Englisch die üblichen Fragen stellten,
+woher ich käme, wohin ich fahre, und so weiter.
+Noch eine Zeitlang haben sie mich danach auf diese Art und Weise begleitet.
+Bei einer Straßenhändlerin kaufte ich mir dann eine große Menge Kirschen, die ich bei meiner nächsten Pause im Ort Pirg genüsslich verspeiste.
+Mein Rastplatz (anscheinend heißt er “Vakëfi i Pirgut”) stellte sich als eine Art religiöse Einrichtung heraus,
+denn neben dem Brunnen, wo ich rastete, stand ein kleines Häuschen (anscheinend ein “Tyrbet”),
+in der ein älterer Mann saß, vor dem immer wieder Autos hielten, Menschen ausstiegen und nach einem kurzen Aufenthalt bei dem Mann wieder weiterfuhren.
+Es kam ein Bauer mit einem Lastentier vorbei, der ein paar Worte mit mir auf Albanisch wechselte,
+und dann schenkte ich ihm ein paar Kirschen — so sehr hatte die Gastfreundschaft in Albanien mittlerweile auf mich abgefärbt.
+Wenig später kam dann noch ein sehr nettes Radfahrer-Pärchen (aus Deutschland, erraten?) vorbei,
+die ich ebenfalls auf ein paar Kirschen einlud und denen ich beim Plaudern den Campingplatz am Ohridsee empfahl.
+
+Etwas weiter Richtung Korçë sah ich an der Straße ein Denkmal für einige Ingenieure,
+die in der Hoxha-Diktatur den Auftrag bekamen,
+ein Gebiet innerhalb weniger Monate trocken zu legen (oder so ähnlich, ich erinnere mich nicht mehr genau),
+und hingerichtet wurden, als sie diesen Auftrag nicht erfüllen konnten.
+Pikant an der Geschichte ist, dass die eigentliche Erfüllung der Arbeit schlussendlich ca. zwanzig Jahre (!) in Anspruch nahm,
+sowie dass sich auch einige Italiener unter den hingerichteten Ingenieuren befanden.
+(Wenn mir jemand ein Foto von diesem Denkmal schicken könnte, wäre ich sehr dankbar.
+Es befindet sich ungefähr [hier](https://goo.gl/maps/tTZhjDR5pquHKDvL6).)
+
+Die Stadt Korçë beeindruckt schon von weitem, denn sie liegt auf einer schrägen Anhöhe, sodass man sie schon von weitem erkennt.
+Im Stadtzentrum selbst fällt sofort die sehr beeindruckende Kathedrale im Zentrum ins Auge, hinter der ich eine Unterkunft fand.
+Die Unterkunft war sehr schön eingerichtet und verfügte über einen kleinen Stadtführer,
+in dem ich las, dass Korçë für seine Kulinarik und sein Kulturangebot bekannt sei.
+Nach einem abendlichen Ausflug in die Stadt sah ich Boulevards voller Menschen und viele Restaurants.
+Ich folgte der Empfehlung meiner Gastgeber und ging in die etwas versteckte, aber sehr gut gefüllte Pizzeria Secret.
+Nach diesem ersten sehr positiven Eindruck beschloss ich, zwei Nächte in Korçë zu bleiben, um die Stadt ausgiebig zu entdecken.
+
+Interessanter Artikel über die albanische Küste: https://www.touringclub.it/ecotourism-in-albania-a-new-project-a-memorable-experience
+
 [Kloster Sveti Naum]: https://de.wikipedia.org/wiki/Kloster_Sveti_Naum
+[mirëdita]: https://de.wiktionary.org/wiki/mir%C3%ABdita
+[Vikos-Schlucht]: https://de.wikipedia.org/wiki/Vikos-Schlucht
+[Elena's Beach]: https://campingelena.gr/el/
+[Birra Korça]: https://de.wikipedia.org/wiki/Birra_Kor%C3%A7a
 [Korçë]: https://de.wikipedia.org/wiki/Kor%C3%A7a
+[Deutschcolor]: https://deutschcolor.com
+[Baumarket]: https://baumarket.al/
