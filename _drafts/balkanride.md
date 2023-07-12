@@ -1,3 +1,18 @@
+# Trieste
+
+[Civico Museo della Guerra per la Pace Diego de Henriquez]: https://www.museodiegodehenriquez.it/
+
+# Umag
+
+[Massimo Savić]: https://www.youtube.com/watch?v=y3i_10ktKK8&t=281s
+
+# Umag -- Labin
+
+[Ljubav nema kraj]: https://www.youtube.com/watch?v=LZHDWa3u5nw
+
+
+[Moj lipi anđele]: https://www.youtube.com/watch?v=zFySIOXijCQ
+
 Die Streckenführung in Albanien machte mir ursprünglich große Sorgen, da ich erfahren hatte, dass der Weg Richtung Süden relativ unangenehm zu befahren sein soll.
 Mehrere Fahrradfahrer hatten mir erzählt, dass sie auf der Strecke zwischen Durrës und Vlorë
 einen Bus (die Französin zwischen Kotor und Cetinje) oder sogar
@@ -449,3 +464,7 @@ Interessanter Artikel über die albanische Küste: https://www.touringclub.it/ec
 [Korçë]: https://de.wikipedia.org/wiki/Kor%C3%A7a
 [Deutschcolor]: https://deutschcolor.com
 [Baumarket]: https://baumarket.al/
+
+# Siatista
+
+[Το ποδήλατο]: https://www.youtube.com/watch?v=U6WCqwS8Y24
