@@ -377,7 +377,7 @@ und mir wird in Erinnerung bleiben, wie er eine meiner Fragen nach dem "Warum" e
 [Klimentskirche]: https://de.wikipedia.org/wiki/Ohrid#Klimentskirche_(Sveti_Kliment)
 [Festung Ohrid]: https://de.wikipedia.org/wiki/Festung_Ohrid
 
-# [Ohrid - Korçë](https://graphhopper.com/maps/?point=41.120125%2C20.786678&point=40.900462%2C20.695822&point=40.854079%2C20.704545&point=40.834275%2C20.73152&point=40.796095%2C20.719089&point=40.786356%2C20.716341&point=40.78329%2C20.716255&point=40.767704%2C20.718153&point=40.753057%2C20.71976&point=40.747219%2C20.718972&point=40.736688%2C20.713382&point=40.726021%2C20.710332&point=40.692945%2C20.72275&point=40.686591%2C20.726812&point=40.679214%2C20.730219&point=40.672639%2C20.732564&point=40.665455%2C20.736154&point=40.663173%2C20.737749&point=40.649744%2C20.75033&point=40.615662%2C20.781576&profile=bike&layer=OpenStreetMap) (76km, 1200m↗)
+# [Ohrid -- Korçë](https://graphhopper.com/maps/?point=41.120125%2C20.786678&point=40.900462%2C20.695822&point=40.854079%2C20.704545&point=40.834275%2C20.73152&point=40.796095%2C20.719089&point=40.786356%2C20.716341&point=40.78329%2C20.716255&point=40.767704%2C20.718153&point=40.753057%2C20.71976&point=40.747219%2C20.718972&point=40.736688%2C20.713382&point=40.726021%2C20.710332&point=40.692945%2C20.72275&point=40.686591%2C20.726812&point=40.679214%2C20.730219&point=40.672639%2C20.732564&point=40.665455%2C20.736154&point=40.663173%2C20.737749&point=40.649744%2C20.75033&point=40.615662%2C20.781576&profile=bike&layer=OpenStreetMap) (76km, 1200m↗)
 
 Von Ohrid aus fuhr ich den Ohridsee entlang Richtung Albanien.
 In Ohrid waren die Existenz von Radwegen bemerkenswert, diese hörten allerdings beim Stadtende abrupt auf und gingen in eine normale Bundesstraße über.
@@ -587,6 +587,7 @@ Es tat mir gut, seit längerem wieder einmal eine katholischen Kirche zu sehen, 
 [Montrelux resort]: https://montreluxresort.al/
 [Tirana]: https://de.wikipedia.org/wiki/Tirana
 
+# [Korçë -- Kastoria](https://graphhopper.com/maps/?point=40.615642%2C20.781576&point=40.616862%2C20.781261&point=40.643935%2C20.804728&point=40.650383%2C20.809816&point=40.654147%2C20.810709&point=40.672219%2C20.825922&point=40.686279%2C20.837939&point=40.691586%2C20.844845&point=40.698123%2C20.872099&point=40.697048%2C20.90985&point=40.691499%2C20.917206&point=40.640432%2C20.969603&point=40.636673%2C20.973538&point=40.624746%2C20.984543&point=40.620853%2C20.988081&point=40.610922%2C20.9993&point=40.674032%2C21.175609&point=40.540674%2C21.179854&point=40.519135%2C21.206783&point=40.505555%2C21.234524&point=40.503651%2C21.252501&point=40.506714%2C21.250874&point=40.512635%2C21.254003&point=40.521021%2C21.266806&profile=bike&layer=OpenStreetMap) (80km, 950m↗)
 
 # Siatista
 
