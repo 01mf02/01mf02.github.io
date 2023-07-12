@@ -507,20 +507,24 @@ wo wir nach kurzer Wartezeit zu einem hohen Geistlichen (ich glaube, es war ein 
 Gant unterhielt sich auf Albanisch mit ihm auf eine sehr amikale Art und Weise und schien mit ihm auch ein paar Scherze zu machen.
 Nach kurzer Zeit wendete sich der Derwisch auch an mich und fragte mich ein bisschen auf Englisch, wer ich sei und was ich so mache,
 insbesondere ob ich ein Professor sei, was ich der Einfachheit halber bejahte.
+Der Derwisch machte auf mich jedenfalls einen sehr gelehrten Eindruck, und ich fühlte mich beinahe etwas schüchtern in dessen Präsenz.
 Das Gespräch war relativ schnell vorüber, und danach gingen wir noch ein bisschen durch die Anlage, wobei uns ein älterer Mann dort eine Rose schenkte.
 Nach dieser Stippvisite ging es wieder zurück nach Korçë wobei Gant immer wieder sein Auto kräftig beschleunigte, vielleicht um mir zu imponieren.
 Ich versuchte, mir meine Furcht nicht allzu sehr anmerken zu lassen, als wäre es für mich das Normalste der Welt, mit 100 km/h auf albanischen Bergstraßen herumzufahren.
+Zwischendurch erhielt er einen Anruf, der in sehr in Rage versetzte, worauf er meinte,
+dass es der albanische Innenminister gewesen sei, der ein guter Freund von ihm sei.
 
 Zurück in Korçë fuhren wir zum alten Basar, wo Gant mir eröffnete,
 dass er dort ein Hotel mit einem angeschlossenen Restaurant besäße, wo er mich auf eine Pizza und auf einen Bergtee einladen wolle.
 Der Bergtee, der mir serviert wurde, roch für ihn allerdings nach Kamillentee,
 worauf er kurz wegging und nach kurzer Zeit aus einem anderen Haus einen Strauch von Bergkräutern brachte, mit dem er mir selbst einen Bergtee machte.
+(Die restlichen Bergkräuter hat er mir geschenkt, und ich habe sie bis zurück nach Innsbruck transportiert.)
 Nach dem Essen besuchten wir die Moschee von Korçë, die laut Gant besonders war, weil sie eine von wenigen Moscheen in der Welt war, wo Bilder aufgehängt sind.
 Danach fuhren wir weiter mit dem Auto auf einen Berg, wo mir Gant eines seiner Hotels zeigte,
 das [Montrelux resort], von dem man eine sehr schöne Aussicht auf Korçë hatte.
 
 Gant erzählte, wie wie er zu seinem Vermögen gekommen war:
-Als Klavierstudent in Deutschland war er sehr arm und konnte sich kaum die Miete leisten.
+Als Klavierstudent in Deutschland (daher sein ausgezeichnetes Deutsch) war er sehr arm und konnte sich kaum die Miete leisten.
 Eines Tages bekam er den Auftrag, bei einer Eröffnung am Abend ein Klavier-Programm nach seinem Geschmack zu spielen,
 woraufhin er die ganze Nacht lang durchspielte.
 Am Ende seines Konzerts in den frühen Morgenstunden kam ein Mann zu ihm und wollte ihn einstellen, worauf sie zu dem Haus des Mannes fuhren.
@@ -529,23 +533,48 @@ Darauf sagte der Mann, dass sich Gant irgendeines der hundert Zimmer im Haus aus
 Der Mann war der Chef von Bosch, und am Ende des Tages hatte Gant einen Vertrag für eine Stelle von ca. 16000€ pro Monat für ca. 10 Stunden Arbeit die Woche.
 Das war der Beginn von Gants Karriere, in dessen Rahmen er viele hohe Tiere kennenlernte.
 Laut ihm sei deren Motivation nicht das Geld, sondern der Wille, etwas zu leisten.
+Tragisch an seinem Schicksal ist allerdings, dass er meinte,
+dass er glücklicher wäre, wenn er statt des Vermögens, das er angehäuft hatte
+(er berichtete mir gegenüber von mehr als zwanzig Hotels, davon auch einige außerhalb Albaniens,
+sowie Investitionen in Windkraftanlagen etc. etc.),
+einfach nur Klavier spielen könnte.
 
 Bei manchen seiner Aussagen fühlte ich mich unwohl, mit ihm im Auto zu sitzen,
-zum Beispiel, dass Hitler einerseits ein Verrückter, aber auch andererseits ein Held für ihn sei.
+zum Beispiel seine Ansichten zur Homosexualität oder
+dass Hitler "einerseits ein Verrückter, aber andererseits auch ein Held" für ihn sei,
 Gott sei Dank waren solche Aussagen eher die Ausnahme.
+Interessant war seine Meinung zu Griechenland:
+Als er hörte, dass mein Ziel Griechenland war und ich mich für dessen Kultur interessierte,
+meinte er, dass es in Griechenland im Vergleich zu Albanien kulturell wenig zu sehen gäbe.
+Unter anderem lägen in Albanien die antiken Städte [Oricum] und [Butrint].
+Weiters meinte er, dass die [neugriechische Sprache] eine von Deutschen erfundene Kunstsprache sei.
+Letzteres scheint mir eine abstruse Theorie zu sein,
+doch bezüglich des Kulturangebots in Griechenland schlichen sich bei mir
+im Laufe meines Aufenthalts in Griechenland Zweifel ein,
+ob Gant nicht doch Recht gehabt hatte ...
+
+[neugriechische Sprache]: https://de.wikipedia.org/wiki/Neugriechische_Sprache
+[Oricum]: https://de.wikipedia.org/wiki/Oricum
+[Butrint]: https://de.wikipedia.org/wiki/Butrint
+
 Nach dem Hotelbesuch wollte er mir noch sein zweites Haus in Korçë auf einem Hügel zeigen,
 aber er konnte es nicht finden, was er auf seinen langen Krankenhausaufenthalt zurückführte.
-
-Danach fuhren wir wieder zurück in die Stadt zu seinem Restaurant. Dort verabschiedete ich mich allerdings recht bald von ihm,
-nachdem ich das Gefühl hatte, dass ich immer weniger einen Dialog führte als vielmehr einem Monolog lauschte,
-so interessant dieser auch manchmal war, und dadurch schon ziemliches Kopfweh hatte.
+Danach fuhren wir wieder zurück in die Stadt zu seinem Restaurant.
+Dort verabschiedete ich mich allerdings recht bald von ihm, nachdem ich das Gefühl hatte,
+dass ich immer weniger einen Dialog führte als vielmehr einem Monolog lauschte
+(so interessant dieser auch manchmal war) und dadurch schon ziemliches Kopfweh hatte.
 
 Während dieser ganzen Zeit war ich mir nie ganz sicher, was ich von Gant zu halten hätte:
 Waren das wirklich seine Hotels und seine Restaurants?
 Hatte er wirklich Anrufe von der Wiener Staatsoper bekommen und mit Hans Zimmer zusammengearbeitet?
 Hatte er wirklich in Deutschland Karriere gemacht?
+Besaß er wirklich in [Tirana] eine Bar, in die er Snoop Dogg eingeladen hatte, und organisierte er dort wirklich ein Musikfestival?
 Als ich ein Foto von Gant dem Besitzer meiner Unterkunft zeigte, bestätigte dieser, dass die Person am Foto tatsächlich der Besitzer der Pizzeria sei.
-Und seine pianistischen Fähigkeiten waren definitiv unbestritten.
+Auch seine pianistischen Fähigkeiten waren definitiv unbestritten,
+und sowohl in dem Hotel als auch im Restaurant sah ich ihn niemals die Rechnung bezahlen.
+Jedoch klangen einige seiner Aussagen, wie zum Beispiel zum Ursprung der neugriechischen Sprache,
+ziemlich verrückt, und auch dass er sein eigenes Haus nicht mehr finden kann, erscheint mir mehr als fragwürdig.
+Aber Albanien hatte mich schon so oft überrascht, dass ich fast nichts mehr für unmöglich hielt.
 Am Ende des Tages kann ich mich mit dem Gedanken trösten: Und wenn's nicht wahr war, so war's zumindest gut erfunden.
 
 Am Abend ging ich selbst noch ein bisschen in der Stadt herum und schaute mir den japanischen Garten an.
@@ -556,6 +585,7 @@ Es tat mir gut, seit längerem wieder einmal eine katholischen Kirche zu sehen, 
 [Börek]: https://de.wikipedia.org/wiki/B%C3%B6rek
 [Tekke]: https://de.wikipedia.org/wiki/Tekke
 [Montrelux resort]: https://montreluxresort.al/
+[Tirana]: https://de.wikipedia.org/wiki/Tirana
 
 
 # Siatista
