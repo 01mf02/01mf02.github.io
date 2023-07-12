@@ -430,7 +430,7 @@ woher ich käme, wohin ich fahre, und so weiter.
 Noch eine Zeitlang haben sie mich danach auf diese Art und Weise begleitet.
 Bei einer Straßenhändlerin kaufte ich mir dann eine große Menge Kirschen, die ich bei meiner nächsten Pause im Ort Pirg genüsslich verspeiste.
 Mein Rastplatz (anscheinend heißt er “Vakëfi i Pirgut”) stellte sich als eine Art religiöse Einrichtung heraus,
-denn neben dem Brunnen, wo ich rastete, stand ein kleines Häuschen (anscheinend ein “Tyrbet”),
+denn neben dem Brunnen, wo ich rastete, stand ein kleines Häuschen (anscheinend eine [Türbe]),
 in der ein älterer Mann saß, vor dem immer wieder Autos hielten, Menschen ausstiegen und nach einem kurzen Aufenthalt bei dem Mann wieder weiterfuhren.
 Es kam ein Bauer mit einem Lastentier vorbei, der ein paar Worte mit mir auf Albanisch wechselte,
 und dann schenkte ich ihm ein paar Kirschen — so sehr hatte die Gastfreundschaft in Albanien mittlerweile auf mich abgefärbt.
@@ -464,6 +464,99 @@ Interessanter Artikel über die albanische Küste: https://www.touringclub.it/ec
 [Korçë]: https://de.wikipedia.org/wiki/Kor%C3%A7a
 [Deutschcolor]: https://deutschcolor.com
 [Baumarket]: https://baumarket.al/
+[Türbe]: https://de.wikipedia.org/wiki/T%C3%BCrbe
+
+# Korçë
+
+Und gleich etwas vorwegzunehmen: Der Tag in Korçë sollte einer der denkwürdigsten meiner Radtour, wenn nicht sogar überhaupt der denkwürdigste, werden.
+Beim Frühstück in der Unterkunft blieb mir insbesondere die unglaublich gute süße Brotsuppe mit Käsestückchen in Erinnerung.
+Weiters gab es nach albanischer Art [Börek].
+Am Nebentisch saßen zwei Deutsche, mit denen ich mich auch ein bisschen unterhielt:
+Sie waren mit dem Auto in Albanien unterwegs, und einer von ihnen (Hartmut) war ein ehemaliger Hoteldirektor.
+
+Nach dem Frühstück schaute ich mir die sehr schöne Kathedrale an und ging dann weiter über die sehr belebte Fußgängermeile Richtung Süden.
+Dort überlegte ich mir, eine Stadttour zu Fuß zu machen, und kam als erstes an dem Theater vorbei, wo ich eine Anzeige für ein Konzert am darauffolgenden Tag sah.
+Nachdem ich kulturell etwas ausgehungert war, ging ich in das Theater hinein und fragte, ob vielleicht am selben Tag auch ein Konzert stattfände,
+was die Mitarbeiter leider verneinten, aber sie boten mir dafür an, das Theater selbst von ihnen anzuschauen.
+Der Hauptsaal war nicht besonders spektakulär, aber auf der Bühne telefonierte ein Mann auf deutsch.
+Als ich ihm den Grund meines Besuchs im Theater erklärt hatte, bot er mir an, mir hier und jetzt ein Privatkonzert zu geben.
+Hinter der Bühne stand ein Klavier, auf dem er gleich los spielte, und zwar auf einem sehr beeindruckenden Niveau.
+Er spielte eine Mischung aus Klassik und Jazz-artiger Improvisation, und zwischendurch erzählte er mir häppchenweise seine Geschichte.
+Er heiße Gant (die genaue Schreibweise kenne ich leider nicht),
+sei erst vor ein paar Tagen aus dem Krankenhaus nach einem sechsmonatigen Aufenthalt (wegen einer alkoholbedingten Erkrankung) entlassen worden, und
+es sei soeben sein erstes Mal am Klavier seit sechs Monaten.
+Er beklagte sich mehrfach darüber, dass seine Fingerfertigkeit so sehr nachgelassen hätte,
+aber der Direktor der Wiener Staatsoper, mit dem er vorhin eben auf Deutsch telefoniert hätte,
+ihn unbedingt bald für ein Konzert haben wollte.
+Nach einiger Zeit kamen wir darauf, dass wir in etwa zur selben Zeit an der Münchner Musikhochschule waren,
+wobei er niemals bei den Faschingskonzerten dabei gewesen war war,
+nachdem er zu diesem Zeitpunkt in Hollywood gewesen sei, um mit Hans Zimmer zu arbeiten.
+
+Nach dem spontanen Konzert bot er mir an, mit ihm eine [Tekke] in der Nähe von Korçë zu besuchen,
+und frei nach dem Motto von Zadar — “always say yes” — nahm ich dieses Angebot an.
+Sein Haus und sein Auto waren direkt gegenüber der Pizzeria, wo ich am Vortag gegessen hatte,
+und als ich ihn darauf ansprach, eröffnete er mir, dass die Pizzeria ihm gehöre.
+Während er kurz in sein Haus ging, um die Autoschlüssel zu holen, überlegte ich mir,
+ob der Typ vielleicht irgendwelche Hintergedanken hatte, aber ich beschloss, das Risiko einzugehen.
+Den typischen albanischen Vergewaltiger stellte ich mir jedenfalls nicht auf einer Theaterbühne auf Deutsch telefonierend und Beethoven spielend vor.
+
+Wir fuhren mit seinem SUV zur “Baba Abdulla”-Tekke in Melçan.
+Dafür ging es über eine ziemlich “albanische Straße” einen Hügel hinauf, auf dem ein sehr imposanter Bau thronte.
+In der Tekke sahen wir eine Art Klostergarten und gingen dann hinein in das Hauptgebäude,
+wo wir nach kurzer Wartezeit zu einem hohen Geistlichen (ich glaube, es war ein Derwisch) vorgelassen wurden.
+Gant unterhielt sich auf Albanisch mit ihm auf eine sehr amikale Art und Weise und schien mit ihm auch ein paar Scherze zu machen.
+Nach kurzer Zeit wendete sich der Derwisch auch an mich und fragte mich ein bisschen auf Englisch, wer ich sei und was ich so mache,
+insbesondere ob ich ein Professor sei, was ich der Einfachheit halber bejahte.
+Das Gespräch war relativ schnell vorüber, und danach gingen wir noch ein bisschen durch die Anlage, wobei uns ein älterer Mann dort eine Rose schenkte.
+Nach dieser Stippvisite ging es wieder zurück nach Korçë wobei Gant immer wieder sein Auto kräftig beschleunigte, vielleicht um mir zu imponieren.
+Ich versuchte, mir meine Furcht nicht allzu sehr anmerken zu lassen, als wäre es für mich das Normalste der Welt, mit 100 km/h auf albanischen Bergstraßen herumzufahren.
+
+Zurück in Korçë fuhren wir zum alten Basar, wo Gant mir eröffnete,
+dass er dort ein Hotel mit einem angeschlossenen Restaurant besäße, wo er mich auf eine Pizza und auf einen Bergtee einladen wolle.
+Der Bergtee, der mir serviert wurde, roch für ihn allerdings nach Kamillentee,
+worauf er kurz wegging und nach kurzer Zeit aus einem anderen Haus einen Strauch von Bergkräutern brachte, mit dem er mir selbst einen Bergtee machte.
+Nach dem Essen besuchten wir die Moschee von Korçë, die laut Gant besonders war, weil sie eine von wenigen Moscheen in der Welt war, wo Bilder aufgehängt sind.
+Danach fuhren wir weiter mit dem Auto auf einen Berg, wo mir Gant eines seiner Hotels zeigte,
+das [Montrelux resort], von dem man eine sehr schöne Aussicht auf Korçë hatte.
+
+Gant erzählte, wie wie er zu seinem Vermögen gekommen war:
+Als Klavierstudent in Deutschland war er sehr arm und konnte sich kaum die Miete leisten.
+Eines Tages bekam er den Auftrag, bei einer Eröffnung am Abend ein Klavier-Programm nach seinem Geschmack zu spielen,
+woraufhin er die ganze Nacht lang durchspielte.
+Am Ende seines Konzerts in den frühen Morgenstunden kam ein Mann zu ihm und wollte ihn einstellen, worauf sie zu dem Haus des Mannes fuhren.
+Der Mann gab Gant einen ca. 100-seitigen Vertrag, worauf Gant meinte, dass er nach der durchspielten Nacht zu müde sei, diesen durchzulesen.
+Darauf sagte der Mann, dass sich Gant irgendeines der hundert Zimmer im Haus aussuchen und darin schlafen könnte.
+Der Mann war der Chef von Bosch, und am Ende des Tages hatte Gant einen Vertrag für eine Stelle von ca. 16000€ pro Monat für ca. 10 Stunden Arbeit die Woche.
+Das war der Beginn von Gants Karriere, in dessen Rahmen er viele hohe Tiere kennenlernte.
+Laut ihm sei deren Motivation nicht das Geld, sondern der Wille, etwas zu leisten.
+
+Bei manchen seiner Aussagen fühlte ich mich unwohl, mit ihm im Auto zu sitzen,
+zum Beispiel, dass Hitler einerseits ein Verrückter, aber auch andererseits ein Held für ihn sei.
+Gott sei Dank waren solche Aussagen eher die Ausnahme.
+Nach dem Hotelbesuch wollte er mir noch sein zweites Haus in Korçë auf einem Hügel zeigen,
+aber er konnte es nicht finden, was er auf seinen langen Krankenhausaufenthalt zurückführte.
+
+Danach fuhren wir wieder zurück in die Stadt zu seinem Restaurant. Dort verabschiedete ich mich allerdings recht bald von ihm,
+nachdem ich das Gefühl hatte, dass ich immer weniger einen Dialog führte als vielmehr einem Monolog lauschte,
+so interessant dieser auch manchmal war, und dadurch schon ziemliches Kopfweh hatte.
+
+Während dieser ganzen Zeit war ich mir nie ganz sicher, was ich von Gant zu halten hätte:
+Waren das wirklich seine Hotels und seine Restaurants?
+Hatte er wirklich Anrufe von der Wiener Staatsoper bekommen und mit Hans Zimmer zusammengearbeitet?
+Hatte er wirklich in Deutschland Karriere gemacht?
+Als ich ein Foto von Gant dem Besitzer meiner Unterkunft zeigte, bestätigte dieser, dass die Person am Foto tatsächlich der Besitzer der Pizzeria sei.
+Und seine pianistischen Fähigkeiten waren definitiv unbestritten.
+Am Ende des Tages kann ich mich mit dem Gedanken trösten: Und wenn's nicht wahr war, so war's zumindest gut erfunden.
+
+Am Abend ging ich selbst noch ein bisschen in der Stadt herum und schaute mir den japanischen Garten an.
+Zuletzt stieß ich auf eine katholische Kirche, wo ich wie schon ein paar Tage vorher
+italienische Geistliche vorfand, mit denen es sehr viel Spaß machte, auf Italienisch zu plaudern.
+Es tat mir gut, seit längerem wieder einmal eine katholischen Kirche zu sehen, denn ich hatte die byzantinische Ikonographie schon ein bisschen über.
+
+[Börek]: https://de.wikipedia.org/wiki/B%C3%B6rek
+[Tekke]: https://de.wikipedia.org/wiki/Tekke
+[Montrelux resort]: https://montreluxresort.al/
+
 
 # Siatista
 
