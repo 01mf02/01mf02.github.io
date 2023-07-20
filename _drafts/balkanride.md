@@ -26,6 +26,8 @@ die mich über Lezhë bei Milot in ein Seitental führt,
 über das ich dann in einem langen Bogen via Rrëshen, Burrel, Klos, und Bulqizë nach Nordmazedonien komme.
 Ich muss gestehen, dass meine Motivation war, so schnell wie möglich aus Albanien herauszukommen.
 
+# Virpazar -- Eco-social Farm
+
 Nach einem ausgiebigen Frühstück mit Seeblick fuhr ich in der schon früh einsetzenden Hitze wieder den Hügel hinauf.
 An dessem Ende stand ein Café, wo zwei Fahrräder angelehnt waren, deren Besitzer die einzigen Gäste im Café waren.
 Es waren zwei junge Franzosen namens Luc und Pablo, mit denen ich mich gleich auf einen Kaffee hinsetzte.
@@ -588,6 +590,111 @@ Es tat mir gut, seit längerem wieder einmal eine katholischen Kirche zu sehen, 
 [Tirana]: https://de.wikipedia.org/wiki/Tirana
 
 # [Korçë -- Kastoria](https://graphhopper.com/maps/?point=40.615642%2C20.781576&point=40.616862%2C20.781261&point=40.643935%2C20.804728&point=40.650383%2C20.809816&point=40.654147%2C20.810709&point=40.672219%2C20.825922&point=40.686279%2C20.837939&point=40.691586%2C20.844845&point=40.698123%2C20.872099&point=40.697048%2C20.90985&point=40.691499%2C20.917206&point=40.640432%2C20.969603&point=40.636673%2C20.973538&point=40.624746%2C20.984543&point=40.620853%2C20.988081&point=40.610922%2C20.9993&point=40.674032%2C21.175609&point=40.540674%2C21.179854&point=40.519135%2C21.206783&point=40.505555%2C21.234524&point=40.503651%2C21.252501&point=40.506714%2C21.250874&point=40.512635%2C21.254003&point=40.521021%2C21.266806&profile=bike&layer=OpenStreetMap) (80km, 950m↗)
+
+In Korçë genoss ich zuerst wieder mein Frühstück, bevor ich noch für eine kleine Dosis Kultur das [Gjon Mili]-Museum besuchte.
+Gjon Mili war ein aus Korçë stammender Fotograf, der es in den USA sehr weit gebracht und
+mehr oder weniger die gesamte kulturelle Elite fotografiert hatte:
+Pablo Picasso, Jean-Paul Sartre, Duke Ellington, Alfred Hitchcock, ...
+Ich war von seinem œuvre schwer beeindruckt und kann den Besuch des Museums jedenfalls schwer empfehlen.
+Danach fuhr ich zügig los, denn an diesem Tag ging es nach Griechenland!
+
+Beim Verlassen der Stadt hatte ich den Luxus eines Radweges, der in einen sehr schönen und belebten Park mündete.
+Danach kam ich auf eine sehr breite Straße, auf der ich ca. eine Stunde lang mit sehr hoher Geschwindigkeit fuhr.
+Beendet wurde mein Geschwindigkeitsrekord nur von einsetzenden Schmerzen am Hintern und meinem Durst, denn es war wieder sehr heiß.
+Zu Mittag machte ich eine kurze Pause in Bilisht, der letzten albanischen Stadt vor der griechischen Grenze,
+wo ich im Spar das [Rucksackproblem] zu lösen versuchte, denn ich versuchte, so viele meiner verbleibenden albanischen Lek wie möglich auszugeben.
+Danach ging es bergauf in Richtung der griechischen Grenze, wobei die Gegend kaum noch besiedelt war.
+Der Grenzübergang ging erstaunlich unproblematisch von sich und nach kurzer Wartezeit war ich endlich an meinem Ziel in Griechenland angekommen.
+Ich hatte mir eigentlich erwartet, von meiner Ankunft etwas bewegter zu sein, aber es war erstaunlich unspektakulär.
+
+Hinter der griechischen Grenze kam ich nach kurzer Zeit in einen Ort namens [Kristallopigi] (Κρυσταλλοπηγή), wo ich jausnen wollte.
+Ich war etwas erstaunt, dass es schon vier Uhr am Nachmittag war, aber ich begriff, dass ich eine Zeitzone weiter gereist,
+war zum ersten Mal auf meiner Reise und zum ersten Mal mit dem Fahrrad überhaupt.
+Ich fand einen schattigen Rastplatz vor dem Gemeindehaus, wo es auch eine kleine Wasserquelle gab,
+und hörte aus der Ferne die griechische Musik aus den Bars zu mir herüberwehen.
+Wie würde Griechenland wohl zu mir sein?
+
+Nach Kristallopigi ging in die Straße lange Zeit bergab durch ein enges Tal. Es war so gut wie niemand unterwegs.
+Mir fielen viele kleine Miniaturkirchen an der Straße auf.
+Immer wieder warnten Straßenschilder vor Wölfen und Bären, und ich dachte an die Radfahrer, die mir von Bärenspuren in Griechenland erzählt hatten.
+Nach ca. eine halbe Stunde Fahrt sah ich eine Herde an der Straße, und bevor ich mich's versah,
+schoss ein Hund direkt auf mich zu und bellte mich sehr laut an.
+Ich blieb sofort stehen, und nach kurzer Zeit kam eine Schäferin, dessen Hund sich erst beruhigte, als sie direkt bei ihm war.
+Sie fragte mich ein bisschen über meine Radtour aus und wünschte mir dann noch eine eine gute Reise.
+Ich fuhr weiter, und etwa zehn Minuten später wurde ich schon zum zweiten Mal von einem Hund attackiert, der eine auf der Straße befindliche Herde schützte,
+und ich begriff, dass dies wohl nicht meine einzigen Hunde in Griechenland bleiben würden.
+Die restliche Zeit des Tages hielt ich relativ paranoid nach Hunden Ausschau, wurde aber verschont.
+So kam ich in Kastoria an, wo ich meinen Lagerplatz für diese Nacht gewählt hatte.
+Kastoria liegt direkt an einem See, an dem ich mein erstes griechisches Abendessen in einem Restaurant genoss.
+
+[Gjon Mili]: https://de.wikipedia.org/wiki/Gjon_Mili
+[Rucksackproblem]: https://de.wikipedia.org/wiki/Rucksackproblem
+[Kristallopigi]: https://en.wikipedia.org/wiki/Krystallopigi
+
+# [Kastoria -- Siatista](https://graphhopper.com/maps/?point=40.521015%2C21.26681&point=40.48556%2C21.324138&point=40.449726%2C21.333589&point=40.440609%2C21.338228&point=40.430748%2C21.339057&point=40.417319%2C21.353597&point=40.401024%2C21.380848&point=40.371443%2C21.401246&point=40.34679%2C21.410501&point=40.31712%2C21.403364&point=40.294699%2C21.4319&point=40.306629%2C21.480906&point=40.256809%2C21.553235&profile=bike&layer=OpenStreetMap) (54km, 959m↗)
+
+In der Früh schaute ich mir kurz die Stadt Kastoria an, aber da ich sie eher langweilig fand,
+fuhr ich relativ bald wieder weiter in Richtung Süden.
+An der Straße sah ich sehr viele Pelzgeschäfte, und ich begriff, dass
+die Haupteinnahmequelle der Region die Pelzproduktion zu sein scheint ---
+was vielleicht auch erklärt, dass mir die Stadt nicht so gut gefallen hatte.
+Die Schnellstraße aus der Stadt heraus war relativ langweilig und ich fühlte mich ziemlich müde,
+sodass ich mich verfuhr und ca. drei Kilometer in die falsche Richtung fuhr.
+Um diesen Fehler wieder gut zu machen, versuchte ich,
+über ein paar Feldwege wieder auf die richtige Straße zu kommen, und ich war zunächst erleichtert,
+endlich von dieser einwandfreien, jedoch eintönigen großen Straße loszukommen.
+Aber auch auf dem Feldweg war es nicht viel interessanter,
+da ich niemanden antraf und die ganze Gegend einen sehr verlassenen Eindruck machte.
+Als ich endlich wieder auf der richtigen Straße war,
+hatte ich insgesamt kaum 12 km seit Kastoria zurückgelegt,
+war aber schon so erschöpft und hungrig, so dass ich im ersten Ort, Militsa (Μηλίτσα), rastete.
+Ich blieb auf einem Spielplatz, wo sich ein Junge, ein Mädchen und ihr Großvater aufhielten.
+Obwohl ich “guten Tag” (kalimera) auf Griechisch sagte, stieg zuerst niemand auf eine Konversation mit mir ein. (Undenkbar in Albanien.)
+Erst nachdem ich dort eine halbe Stunde gejausnet hatte, begann der Großvater mit mir zu sprechen,
+und ich hatte zum ersten Mal in meinem Leben die Gelegenheit, mich wirklich auf Griechisch zu verständigen.
+Ich hatte ja schon die ganze Reise lang ein Griechisch-Lehrbuch mitgeschleppt
+(das ich bis dahin vielleicht drei Mal zur Hand genommen hatte, da ich die restliche Zeit damit beschäftigt gewesen war, die jeweilige Landessprache zu lernen);
+als ich aber nun das erste Mal versuchte, eine echte griechische Konversation zu führen,
+benötigte ich für jeden Satz eine gefühlte Minute bis ich ihn herausbrachte — es ging zäh wie Kaugummi.
+Immerhin schaffte ich zumindest zu sagen, aus welchem Land ich kam und wie ich heiße.
+Es stellte sich heraus, dass der Großvater ein bisschen Französisch (ligo gallika) sprach,
+und so hatten wir zumindest ein kleines Gespräch auf Französisch.
+Als er und die Kinder den Spielplatz verließen, blieb der Junge ein bisschen zurück,
+und als er mit mir alleine war, nahm er seinen ganzen Mut zusammen und fragte mich ein bisschen auf Englisch aus,
+wobei ich allerdings stolz war, durchgängig auf Griechisch zu antworten, durch die Konversation mit seinem Großvater schon etwas geübter.
+
+Ab Militsa fuhr ich auf einer Nationalstraße, die die meiste Zeit parallel zur Autobahn verlief.
+Die Griechen haben viele Autobahnen parallel zu existierenden Bundesstraßen gebaut,
+welche daher dementsprechend schwach befahren sind und sich zum Radfahren gut eignen.
+Ich hatte eine schöne Aussicht über das unter mir liegende Land, konnte diese aber nicht lange genießen,
+denn es begann mehrfach zu regnen, sodass ich einige Zeit vor einem verlassenen Café unter einem Wellblechdach entlang der Straße Zuflucht nahm.
+Generell waren an der Straße so gut wie keine Häuser oder sonstige Infrastruktur vorhanden, sodass ich mich ziemlich verlassen fühlte.
+
+Durch die Kombination von heißem Wetter und Regen begann die Straße zu dampfen, und als ich durch ein kleines Wäldchen fuhr,
+sah ich in der Ferne im Nebel drei Hunde regungslos auf der Straße stehen.
+Die Hunde waren in Dreiecksformation aufgestellt, mit dem mutmaßlichen Anführer vorne in der Mitte.
+Ich blieb stehen und zückte meinen “Dog Chaser”, und kurze Zeit lang schauten wir uns einfach nur an,
+bis der linke und rechte Hund sich aus dem Staub machten und sich ihr Anführer nach ihnen umdrehte,
+als wollte er sagen, “warum lässt ihr mich hier alleine im Stich?”.
+Ich wartete dann noch kurz, bis ich in Richtung Hunde fuhr,
+die sich bei meiner Bewegung allerdings sofort wieder zurück in Dreiecksformation begaben.
+Daraufhin wartete ich noch länger, bis sich die drei Hunde zum Glück von selbst ins Gebüsch verzogen.
+Ich fuhr an der Stelle mit großer Vorsicht (und den “Dog Chaser” im Anschlag) vorbei,
+da ich befürchtete, doch noch aus dem Hinterhalt angegriffen zu werden, ich wurde aber Gott sei Dank diesmal verschont.
+Ich beschloss, in den nächsten größeren Ort Siatista zu fahren, wo es mehrere Unterkünfte gab,
+musste dafür allerdings einen längeren Anstieg auf mich nehmen.
+Während dieses Anstiegs regnete es ziemlich durchgängig,
+sodass mich die wenigen Autofahrer auf der Straße für einen Masochisten gehalten haben mussten.
+Einmal sah ich eine größere Herde mit Hunden, die allerdings glücklicherweise weit genug von der Straße entfernt waren, sodass ich nicht angegriffen wurde.
+Nachdem ich den ganzen Tag mehr oder weniger durch Niemandsland gefahren war, war meine Ankunft in Siatista wie ein Schock,
+denn auf einmal war ich in einem relativ großen Ort mitten am Berg mit sehr vielen Kaffees und Geschäften.
+Es kam mir vor wie New York.
+In meiner Unterkunft wurde ich von der Wirtin bemuttert, sodass ich froh war,
+einen anderen Gast zu treffen, nämlich einen Franzosen,
+der schon seit mehr als zehn Jahren immer wieder geschäftlich zum Handel mit Pelzen und anderen lokalen Produkten in diese Unterkunft fuhr.
+Ich freute mich jedenfalls sehr, wieder einmal mit einem Franzosen gesprochen zu haben --- es sollte allerdings der letzte auf der gesamten Radtour bleiben.
+Am Abend aß ich in einem Gasthaus auf einem Hügel nahe meiner Unterkunft,
+wo ich von den anderen Gästen mit großem Interesse zu meiner Radtour befragt wurde.
 
 # Siatista
 
