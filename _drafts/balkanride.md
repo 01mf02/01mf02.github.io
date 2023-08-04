@@ -13,6 +13,11 @@
 
 [Moj lipi anđele]: https://www.youtube.com/watch?v=zFySIOXijCQ
 
+# Senj
+
+[Lipoto moja]: https://www.youtube.com/watch?v=qu4FX9tRG50
+
+
 Die Streckenführung in Albanien machte mir ursprünglich große Sorgen, da ich erfahren hatte, dass der Weg Richtung Süden relativ unangenehm zu befahren sein soll.
 Mehrere Fahrradfahrer hatten mir erzählt, dass sie auf der Strecke zwischen Durrës und Vlorë
 einen Bus (die Französin zwischen Kotor und Cetinje) oder sogar
@@ -694,8 +699,170 @@ einen anderen Gast zu treffen, nämlich einen Franzosen,
 der schon seit mehr als zehn Jahren immer wieder geschäftlich zum Handel mit Pelzen und anderen lokalen Produkten in diese Unterkunft fuhr.
 Ich freute mich jedenfalls sehr, wieder einmal mit einem Franzosen gesprochen zu haben --- es sollte allerdings der letzte auf der gesamten Radtour bleiben.
 Am Abend aß ich in einem Gasthaus auf einem Hügel nahe meiner Unterkunft,
-wo ich von den anderen Gästen mit großem Interesse zu meiner Radtour befragt wurde.
+wobei ich mir ohne viel nachzudenken ein Souvlaki bestellte,
+welches mich dann erschreckenderweise an das infernalische Cevapcici von Debar erinnerte.
+Glücklicherweise war es von besserer Qualität.
+Nach dem Essen wurde ich noch von den anderen Gästen und den Angestellten mit großem Interesse zu meiner Radtour befragt.
 
 # Siatista
+
+In Siatista blieb ich insgesamt zwei Nächte, und zwar um Zeit zu gewinnen für die Überlegung,
+in welche Richtung ich weiterfahren würde.
+Siatista befand sich nämlich an einer Art Kreuzung, wo ich die Entscheidung zwischen einer Weiterfahrt Richtung Süden und Osten treffen musste:
+Im Süden lagen die Meteora-Klöster, und dieser Weg könnte mich Richtung Ioannina und die griechische Westküste führen.
+Im Osten lag das Grab von [Philipp II.], des Vaters von Alexander dem Großen, lag, und dieser Weg würde mich eher in Richtung Thessaloniki und eventuell Richtung Athen führen.
+Ich nutzte die seit meiner Ankunft in Griechenland wieder verfügbare Möglichkeit, gratis nach Österreich telefonieren zu können,
+um ein paar Freunde mit Griechenland-Erfahrung anzurufen und mir Unterstützung bei meiner Entscheidung zu erbitten,
+aber es stellte sich heraus, dass niemand von ihnen Erfahrung mit Nordgriechenland hatte.
+
+[Philipp II.]: https://de.wikipedia.org/wiki/Philipp_II._(Makedonien)
+
+So verschob ich meine Entscheidung ein wenig und besichtigte Siatista:
+Zuerst sah ich die besonders für die Größe der Stadt sehr imposante Kathedrale,
+dann ging ich in das [Paläontologische Museum Siatista].
+Im Museum genoss ich den Luxus einer Einzelführung, da ich nämlich der einzige Besucher war.
+Es waren dort Dinosaurierknochen ausgestellt, von denen in Siatista einige gefunden worden ware,
+und es gab auch eine botanische Sammlung (allerdings nur mit griechischen Texten),
+wo erklärt wurde, dass in einem Tal in der Nähe von Siatista die Grenze zwischen afrikanischer und europäischer Platte verlief,
+was man an unterschiedlichen Vegetationen auf den beiden Talseiten sehen konnte.
+Während meines Besuchs im Museum begann ein extrem starker Regenfall,
+sodass ich nicht einmal mehr aus dem Museum gehen hätte können, ohne innerhalb von Sekunden vollkommen durchnässt zu werden.
+Der Regen war sogar so stark, dass er durch die Fenster des Museums drang und sich im Museum Laken bildeten.
+Nach dem Museumsbesuch gab mir mein Führer den Tipp, ein paar ehemalige Herrenhäuser (archontika) zu besichtigen,
+von denen es in Siatista einige gibt.
+Dazu musste ich den Ort wieder hinunterfahren und besichtigte ein sehr schön dekoriertes Herrenhaus, wo ich wieder eine Einzelführung bekam.
+Nach dem Ende meiner Visite quatschte ich noch ein bisschen mit den Angestellten des Museums,
+von denen ich spontan zu einem Raki und zu einem Loukoumi (einer sehr weichen, klebrigen Süßigkeit mit Rosengeschmack) eingeladen wurde.
+Es gesellte sich dann noch eine weitere Frau zu uns hinzu, die die Besitzerin eines weiteren Museums war,
+und ich ging nach dem Raki mit ihr mit, wobei die Kommunikation mit ihr etwas schwierig war, da sie nur Griechisch sprach.
+Zum Glück fanden sich bei ihrem Museum noch ein paar andere Besucher ein, die Englisch und Griechisch perfekt beherrschten,
+und für mich den Diskurs der Besitzerin übersetzten.
+Diese hatte ein ganzes Haus renoviert und es mit alten Gegenständen, die andere Leute weggeworfen hatten, zu einem Museum eingerichtet,
+wofür sie im Ort zunächst einigen Widerstand überwinden musste.
+
+Nach diesen vielen Museumsbesuchen ging ich zu meiner Unterkunft, wo ich von meiner Gastgeberin zu einer Moussaka eingeladen wurde,
+die zwar schon leider etwas kalt war, aber dennoch sehr gut schmeckte.
+Da ich feststellen musste, dass meine Kleider, die ich in der Früh gewaschen hatte,
+aufgrund der hohen Luftfeuchtigkeit vermutlich nicht mehr vor meiner Abreise trocknen würden,
+bat ich meine Gastgeberin darum, die Kleider einmal in den Trockner zu geben, wofür ich allerdings extra bezahlen musste.
+(Auch das wieder in Albanien undenkbar!)
+
+[Paläontologische Museum Siatista]: https://en.wikipedia.org/wiki/Paleontological_Museum_of_Siatista
+
+# [Siatista -- Veria](https://graphhopper.com/maps/?point=40.254401%2C21.553293&point=40.245139%2C21.59303&point=40.247216%2C21.602674&point=40.253999%2C21.621214&point=40.260459%2C21.634338&point=40.294263%2C21.660582&point=40.298446%2C21.680383&point=40.303104%2C21.736077&point=40.326311%2C21.788412&point=40.330665%2C21.789288&point=40.334307%2C21.79133&point=40.343675%2C21.80451&point=40.341928%2C21.822744&point=40.34536%2C21.826173&point=40.353327%2C21.838279&point=40.367346%2C21.87255&point=40.368342%2C21.877987&point=40.36768%2C21.899252&point=40.365795%2C21.907512&point=40.366824%2C21.960245&point=40.37381%2C22.01544&point=40.371349%2C22.060909&point=40.399351%2C22.127515&point=40.405736%2C22.123076&point=40.458087%2C22.161689&point=40.475707%2C22.177714&point=40.52361%2C22.205148&profile=bike&layer=OpenStreetMap) (91km, 1400m↗)
+
+Ich entschied mich letztendlich dafür, von Siatista in Richtung Osten zu fahren.
+Den Ausschlag dazu gegeben hatten meine Recherchen, die gezeigt hatten,
+dass ich bei der Fahrt von Kalambaka Richtung Ioannina (Westen) einmal eine Tagesstrecke von ca.
+[77 km mit ca 4.400 Höhenmetern](https://graphhopper.com/maps/?point=39.703014%2C21.62536_Kalambaka%2C+%CE%A4%CF%81%CE%B9%CE%BA%CE%AC%CE%BB%CF%89%CE%BD+-+%CE%A0%CE%B1%CE%BD%CE%B1%CE%B3%CE%AF%CE%B1%CF%82%2C+422+00+Kalabaka%2C+Greece&point=39.803606%2C21.2514&point=39.796967%2C21.183253&point=39.770065%2C21.181529&profile=bike&layer=OpenStreetMap) (!!)
+an einem Tag zurücklegen müsste, da sich zwischen Kalambaka und Metsovo keine mir bekannten Hotels liegen würden.
+Das zeigte mir auch, dass das Radfahren ohne Zelt in Griechenland mangels Infrastruktur
+ein schwieriges Unterfangen war, und ich hatte das Gefühl, irgendetwas falsch zu machen.
+
+Dennoch sollte auch meine Fahrtrichtung Osten kein Honiglecken werden, denn am Ende des Tages erwartete mich eine saftige Steigung.
+Zu Beginn ging es jedoch noch sehr angenehm den Berg von Siatista hinunter und zurück auf die Bundesstraße, die Autobahn entlang.
+So ging es ziemlich ereignislos Richtung Osten, wobei ich nach ca. einer Stunde von dem ersten Regenfall eingeholt wurde,
+vor dem ich unter dem Dach einer Bushaltestelle Schutz suchte und wobei ich die Zeit nutzte,
+meine ziemlich abgefahrenen Bremsen Bremsklötze zum ersten Mal seit Beginn der Reise zu tauschen.
+Danach fuhr ich weiter Richtung Kozani, die Stadt allerdings großräumig umfahrend, da ich ja an diesem Tag ziemlich weit fahren wollte.
+
+In Koila war dann ein Kreisverkehr, an dessen Gehsteig eine ziemlich große Menge von wilden Hunden lag,
+von denen mir besonders einer ins Auge stach, nachdem er so rote Augen hatte, als hätte er eine Menge Cannabis geraucht.
+Und tatsächlich drohte mir vor diesen Hunden Unheil, denn als sie mich sahen,
+begannen sie sich wie Zombies langsam zu erheben und mich anzuknurren und machten Anstalten, mich im Kreisverkehr zu verfolgen.
+Ich versuchte mich dem zu entziehen, indem ich (in dem doch relativ stark befahrenen Kreisverkehr)
+ein paar Autos zwischen mich und die Hunde zu bringen versuchte,
+und dann möglichst schnell durch den Ort das Weite suchte.
+Da diese Hunde aber teilweise hinkten und generell in einem bemitleidenswerten Zustand waren,
+fielen ihre Verfolgungsversuche glücklicherweise eher symbolisch aus.
+
+In Trepano überlegte ich mir, zu Mittag zu essen, nachdem die Wolken schon sehr drohend und dunkel in der Nähe schwebten.
+In dem Ort traf ich einen Jungen, mit dem ich ein bisschen auf Griechisch kauderwelschte und den ich nach einem guten Gasthaus fragte.
+Das von ihm empfohlene sagte mir so wie die anderen Gasthäuser aber nicht wirklich zu,
+und nachdem ich aus meinem Debakel in Nordmazedonien gelernt hatte, entschloss ich mich dazu, weiter zu fahren.
+
+Ein paar Kilometer weiter erwischte mich der Regen auf der Höhe von Koilada (Κοιλάδα) endgültig,
+woraufhin ich dringend von der Straße abfahren musste und zum Glück sofort ein Restaurant fand.
+Wenige Minuten später begann ein Unwetter der Extraklasse, ähnlich wie schon am Tag zuvor beim paläontologischen Museum,
+und ich war froh, wieder einen trockenen Platz gefunden zu haben.
+Ein anderer Gast, schon älteren Alters, sprach Deutsch, nachdem er einige Zeit lang in Deutschland gearbeitet hatte,
+dennoch hatte ich Mühe, ihn zu verstehen, so laut war der Regen.
+Er half mir beim Übersetzen der Speisekarte, sodass ich nicht wie schon in Siatista ungewollt ein Fleischgericht erhalten würde,
+und ich war mit dem Fisch sehr zufrieden.
+Nach dem Essen bekam ich noch eine kostenlose Nachspeise und hatte noch eine weitere Konversation mit einem anderen Gast,
+der mit mir Französisch sprach, da er einige Zeit in Belgien gearbeitet hatte.
+
+Nach dem Essen war der Regen zum Glück wieder vorbei und ich fuhr mit frischem Mut weiter Richtung Osten, von STS musikalisch begleitet.
+
+In Polymilos begann dann der Anstieg, der sehr frustrierend war, nachdem ich die längste Zeit eine Aussicht auf die Autobahnbrücke hatte,
+durch den die ganzen Autos den Anstieg nicht machen müssen, obwohl sie ihn tatsächlich leichter könnten als ich als Radfahrer.
+Während dieses Anstiegs hatte ich die auf der ganzen Reise allerschlimmste Erfahrung mit Hunden überhaupt:
+Ich hörte gerade Attwenger, da die Straße so gut wie nicht befahren war,
+als ich wieder einmal auf eine Herde stieß und mich schon mental auf die nächste Hundeattacke einstellte,
+die tatsächlich nicht lange auf sich warten ließ:
+Vier Hunde nahmen mich in die Zange; einer von links, drei von rechts, und ich versuchte,
+mich rückwärts von den Hunden zu entfernen, sodass mir die Hunde zumindest nicht in den Rücken fallen könnten.
+An dem Punkt versuchte ich auch zum ersten Mal den Dog Chaser einzusetzen, musste aber feststellen, dass er überhaupt keine Wirkung zeigte.
+So schob ich das Fahrrad rückwärts, mit den Kopfhörern immer noch im Ohr,
+wobei ich von Attwenger schon längst nichts mehr hörte, da das Hundegebell alles andere übertönte.
+Ich versuchte auch, die Hunde anzubellen, so wie ich das gelesen hatte, aber es nutzte alles nichts.
+Ein Auto näherte sich, und ich rief so etwas wie "fahr die Hunde tot!".
+In dem ganzen Chaos fiel mir dann auch noch mein Fahrrad um, so sehr hatte ich Angst.
+Zum Glück kann dann schlussendlich ein Schäfer und rief die Hunde wieder zur Räson.
+Als er mich fragte, ob alles bei mir gut sei, sagte ich ihm allerdings,
+nein, es wäre nicht gut, ich würde die Hunde am liebsten umbringen.
+Beim Weiterfahren hatte ich sehr dunkle Gedanken, musste aber immer dabei denken,
+dass die Hunde selbst nichts dafür können, sondern die Griechen,
+die ihre Hunde so scharf abrichten, dass sie sogar für sich selbst eine Gefahr darstellen.
+
+Als nächstes kam ich in einen Geisterort namens Zoodochos Pigi (Ζωοδόχος Πηγή),
+auf dessen Straße ca. zehn wilde Hunde lagen, die in einer einzigen Bewegung auf mich zukamen.
+Ich machte mich schon wieder auf das Schlimmste gefasst, aber ich musste feststellen,
+dass diese Hunde eine anderen Spezies anzugehören schienen als jene zuvor,
+denn sie waren nur neugierig und wollten von mir gestreichelt werden.
+Ich hatte den Eindruck, dass sie auch ziemlich hungrig waren, aber Gott sei Dank noch nicht so hungrig,
+dass ich für sie eine geeignete Nahrung dargestellt hätte.
+Einer der Hunde begleitete mich noch ca. 1 km weit, wobei ich immer das Fahrrad schob,
+nachdem ich Angst hatte, sonst wieder den Jagdinstinkt auszulösen --- man weiß ja nie.
+Der Ort war vermutlich deshalb ein Geisterort,
+nachdem seit der Konstruktion der Autobahn so gut wie niemand mehr diese Straße verwendete,
+was aber natürlich für alle, die diese Autobahn nicht verwenden können --- wie z.B Radfahrer ---, ein Problem darstellt,
+da ja die Infrastruktur dadurch sehr stark ausgedünnt ist.
+
+Kurz nach dem Geisterort erreichte ich dann eine neue Region in Griechenland, nämlich Zentralmakedonien.
+Von dort ging es dann sehr lange bergab, nämlich in einem durch fast bis zu meinem Ziel, Veria.
+Kurz vor Veria hatte ich noch einmal eine Begegnung mit einem Hund,
+der auf der Straße lag und mir beim Näherkommen versuchte, wie ein Polizist den Weg zu versperren.
+Nachdem allerdings die Straße sehr abschüssig war, hatte ich keine Lust darauf,
+was dem Hund gar nicht gefiel, worauf er begann, mir nachzuhetzen.
+Normalerweise wäre es eine schlechte Idee, ein Rennen mit einem Hund einzugehen,
+nachdem allerdings die Straße so steil war, erreichte ich die kritische Geschwindigkeit von ca. 50 km/h leicht,
+sodass ich dem Hund einfach davonfahren konnte.
+Nach drei Hundeattacken an einem Tag war ich allerdings fest entschlossen, nicht mehr das Opfer zu spielen,
+sondern mich mit einer Waffe auszurüsten.
+Mir kamen Gedanken an meinen Onkel Alf und seine Geschichten von dem Anti-Hunde-Messer und seine Lust einen Hund zu töten,
+und ich konnte ihn nunmehr endlich verstehen.
+
+In Veria hatte ich einen Apartment gemietet, vor dem mich Nikos, der Sohn des Besitzers, empfing.
+Ich schilderte ihm von meinen Hundeproblemen und fragte ihn, wo man einen ausziehbaren Wanderstock oder ähnliches in Veria erhalten könnte,
+sodass ich im Notfall eine Waffe bereit hätte, um mir die Hunde vom Leib zu halten.
+Daraufhin führte er mich durch Veria und wir klapperten einige Sportgeschäfte ab,
+bis ich mich schlussendlich dafür entschied, einen etwas verbogenen, aber sonst noch intakten Schistecken abzukürzen
+und dadurch zu einem Anti-Hunde-Stecken zu machen.
+Diesen hängte ich dann an meinen Lenker und befestigte ihn in der Nähe meiner Gangschaltung,
+sodass ich ihn immer gleich griffbereit haben, aber mein eigenes Verletzungsrisiko möglichst gering halten könnte,
+denn ich hatte aus meinem meiner Erfahrung mit dem Anti-Hunde-Stecken in Istrien gelernt.
+Nachdem mir Nikos so sympathisch war, lud ich ihn auf einen Aperol Spritz ein, und er nahm mein Angebot an.
+Vorher zeigte er mir noch ein bisschen die Stadt, die meine bis dahin sicherlich größte Stadt in Griechenland war und mich durch ihre Belebtheit verzauberte.
+Überall waren Menschen unterwegs, und eine nette Bar reihte sich an die nächste.
+Wir plauderten ziemlich lange, wobei sich herausstellte, dass Nikos Jus studierte und sich überlegte,
+eine Zeit lang ins Ausland zu gehen für ein Doktorat in Rechtsinformatik.
+Wir hatten also sehr viele Überschneidungspunkte in unseren Interessen.
+Zum Ende hin wollte ich ihn einladen, aber stattdessen hatte er tatsächlich mich eingeladen,
+und er zeigte mir noch ein bisschen weiter die Stadt Veria, bevor er sich verabschieden musste.
+Ich hatte das Gefühl, zum ersten Mal so etwas wie einen Freund den Griechenland gefunden zu haben.
+Ευχαριστώ, Νίκος!
+
+[Zentralmakedonien]: https://de.wikipedia.org/wiki/Zentralmakedonien
 
 [Το ποδήλατο]: https://www.youtube.com/watch?v=U6WCqwS8Y24
