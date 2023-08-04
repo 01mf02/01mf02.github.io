@@ -829,7 +829,7 @@ nachdem seit der Konstruktion der Autobahn so gut wie niemand mehr diese Straße
 was aber natürlich für alle, die diese Autobahn nicht verwenden können --- wie z.B Radfahrer ---, ein Problem darstellt,
 da ja die Infrastruktur dadurch sehr stark ausgedünnt ist.
 
-Kurz nach dem Geisterort erreichte ich dann eine neue Region in Griechenland, nämlich Zentralmakedonien.
+Kurz nach dem Geisterort erreichte ich dann eine neue Region in Griechenland, nämlich [Zentralmakedonien].
 Von dort ging es dann sehr lange bergab, nämlich in einem durch fast bis zu meinem Ziel, Veria.
 Kurz vor Veria hatte ich noch einmal eine Begegnung mit einem Hund,
 der auf der Straße lag und mir beim Näherkommen versuchte, wie ein Polizist den Weg zu versperren.
@@ -864,5 +864,31 @@ Ich hatte das Gefühl, zum ersten Mal so etwas wie einen Freund den Griechenland
 Ευχαριστώ, Νίκος!
 
 [Zentralmakedonien]: https://de.wikipedia.org/wiki/Zentralmakedonien
+
+# [Veria -- Makrogialos](https://graphhopper.com/maps/?point=40.52951%2C22.203962&point=40.487464%2C22.319315&point=40.493036%2C22.353245&point=40.505241%2C22.372214&point=40.51007%2C22.381999&point=40.517835%2C22.39762&point=40.549865%2C22.414829&point=40.555762%2C22.471606&point=40.443926%2C22.595461&point=40.413849%2C22.610674&profile=bike&layer=OpenStreetMap) (55km, 440m↗)
+
+Am nächsten Tag fuhr ich von Veria nach Vergina, wo sich die Königsgräber von Philipp II., des Vaters von Alexander dem Großen, befanden.
+Mich beeindruckte dort besonders die unglaubliche Qualität der Grabbeigaben,
+die vor mehr als 2300 Jahren entstanden sind.
+Viele von ihnen haben die Zeitläufte nahezu unbeschädigt überstanden, insbesondere die vielen Objekte aus Metall,
+wie z.B die unglaublich schön gearbeitete Pfanne mit einem Tierkopf als Stiel.
+Es war auch interessant zu sehen, dass schon in jener Zeit die gleichen Buchstaben verwendet wurden,
+wie sie auch heute noch in Griechenland zu sehen sind.
+So konnte ich einige Namen auf den ausgestellten Grabsteinen entziffern.
+Ein bewundernder Schauder vor der Hochkultur dieses Volkes überkam mich.
+Auch erwähnenswert ist die Geschichte der Frau von Philipp,
+die sich anscheinend freiwillig nach dem Tod ihres Mannes mit ihm mitbestatten ließ.
+Der hinter all dem stehende Wunsch und Glaube nach einem Leben nach dem Tod ließ mich beeindruckt zurück.
+
+Nach einem aufgrund der Hitze Mittagshitze etwas ausgedehnterem Mittagessen fuhr ich weiter Richtung Osten.
+Am späten Nachmittag sah ich zum ersten Mal seit Montenegro wieder das Meer, und zwar gleich mit Aussicht auf Thessaloniki.
+Ich hatte zwar eine Zeit lang mit dem Gedanken gespielt, dieser Stadt einen Besuch abzustatten,
+aber Nikos hatte mich eindringlich davor gewarnt, mit dem Fahrrad diese Stadt zu betreten,
+nachdem er selbst schon einmal bei dem Versuch mit einem Moped Todesangst gehabt hatte.
+Außerdem berichtete er von einem Freund, der mit dem Fahrrad schon in der ganzen Welt unterwegs gewesen war,
+dem aber ausgerechnet in Thessaloniki nach kürzester Zeit das Fahrrad gestohlen worden war.
+Auch andere Freunde hatten mir berichtet, dass ihnen Thessaloniki zumindest beim ersten Mal nicht sehr gefallen hatte,
+worauf ich mich zur Beobachtung hinreißen ließ, dass die Stadt wie Bier ist, das ja auch bekanntlich beim ersten Mal nicht so gut schmeckt.
+So ließ ich Thessaloniki also links liegen und fuhr noch ein bisschen am Meer entlang, bis ich in Makrogialos Station machte.
 
 [Το ποδήλατο]: https://www.youtube.com/watch?v=U6WCqwS8Y24
