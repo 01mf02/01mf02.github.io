@@ -891,4 +891,6 @@ Auch andere Freunde hatten mir berichtet, dass ihnen Thessaloniki zumindest beim
 worauf ich mich zur Beobachtung hinreißen ließ, dass die Stadt wie Bier ist, das ja auch bekanntlich beim ersten Mal nicht so gut schmeckt.
 So ließ ich Thessaloniki also links liegen und fuhr noch ein bisschen am Meer entlang, bis ich in Makrogialos Station machte.
 
+# [Makrogialos -- Katerini](https://graphhopper.com/maps/?point=40.413849%2C22.610674&point=40.297923%2C22.611049&point=40.268447%2C22.531591&profile=bike&layer=OpenStreetMap) (24km, 120m↗)
+
 [Το ποδήλατο]: https://www.youtube.com/watch?v=U6WCqwS8Y24
